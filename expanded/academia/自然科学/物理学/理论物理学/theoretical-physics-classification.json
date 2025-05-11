@@ -1,0 +1,76 @@
+{
+  "name": "理论物理学",
+  "description": "研究物理现象的基本原理和数学框架的物理学分支",
+  "quaternaryCategories": [
+    {
+      "name": "经典力学",
+      "subcategories": [
+        {"name": "牛顿力学", "description": "研究物体运动的经典理论"},
+        {"name": "拉格朗日力学", "description": "基于能量和广义坐标的力学表述"},
+        {"name": "哈密顿力学", "description": "基于相空间和哈密顿量的力学体系"},
+        {"name": "解析力学", "description": "使用数学变分原理研究力学问题"},
+        {"name": "连续介质力学", "description": "研究连续物质的力学性质"}
+      ]
+    },
+    {
+      "name": "量子力学",
+      "subcategories": [
+        {"name": "薛定谔方程理论", "description": "基于波函数的量子力学描述"},
+        {"name": "海森堡矩阵力学", "description": "基于矩阵的量子力学表述"},
+        {"name": "狄拉克方程理论", "description": "相对论性量子力学理论"},
+        {"name": "量子测量理论", "description": "研究量子系统的测量过程和解释"},
+        {"name": "量子纠缠现象", "description": "研究量子系统间的非局域关联"}
+      ]
+    },
+    {
+      "name": "相对论",
+      "subcategories": [
+        {"name": "狭义相对论", "description": "研究惯性参考系中的时空关系"},
+        {"name": "广义相对论", "description": "研究引力场中的时空几何"},
+        {"name": "引力波理论", "description": "研究时空曲率的波动传播"},
+        {"name": "黑洞理论", "description": "研究极端引力场下的时空特性"},
+        {"name": "宇宙学模型", "description": "研究宇宙大尺度结构和演化"}
+      ]
+    },
+    {
+      "name": "量子场论",
+      "subcategories": [
+        {"name": "标准模型理论", "description": "描述基本粒子和相互作用的理论框架"},
+        {"name": "量子电动力学", "description": "描述带电粒子和电磁场相互作用的理论"},
+        {"name": "量子色动力学", "description": "描述强相互作用的量子理论"},
+        {"name": "电弱统一理论", "description": "统一电磁力和弱核力的理论"},
+        {"name": "路径积分方法", "description": "基于费曼路径积分的量子场论方法"}
+      ]
+    },
+    {
+      "name": "统计物理",
+      "subcategories": [
+        {"name": "平衡态统计物理", "description": "研究处于平衡状态的多粒子系统"},
+        {"name": "非平衡态统计物理", "description": "研究不处于平衡状态的物理系统"},
+        {"name": "相变理论", "description": "研究物质状态变化的理论"},
+        {"name": "临界现象", "description": "研究系统在相变临界点附近的行为"},
+        {"name": "涨落理论", "description": "研究物理量随机偏离平均值的现象"}
+      ]
+    },
+    {
+      "name": "弦理论",
+      "subcategories": [
+        {"name": "超弦理论", "description": "包含超对称性的弦理论"},
+        {"name": "M理论", "description": "试图统一五种超弦理论的框架"},
+        {"name": "时空拓扑", "description": "研究弦理论中的时空几何结构"},
+        {"name": "D-膜理论", "description": "研究弦理论中的高维延展对象"},
+        {"name": "全息原理", "description": "研究低维空间与高维空间的对应关系"}
+      ]
+    },
+    {
+      "name": "数学物理",
+      "subcategories": [
+        {"name": "群论应用", "description": "将群论应用于物理系统的对称性研究"},
+        {"name": "微分几何应用", "description": "将微分几何应用于物理理论的构建"},
+        {"name": "拓扑方法", "description": "使用拓扑学研究物理系统的性质"},
+        {"name": "函数分析方法", "description": "应用函数分析于量子力学和场论"},
+        {"name": "计算物理方法", "description": "发展求解复杂物理问题的数值方法"}
+      ]
+    }
+  ]
+} 

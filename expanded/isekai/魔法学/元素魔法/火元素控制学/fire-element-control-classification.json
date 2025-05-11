@@ -1,0 +1,86 @@
+{
+  "name": "火元素控制学",
+  "description": "研究操纵、引导和塑造火元素魔力的专门学问",
+  "quaternaryCategories": [
+    {
+      "name": "火元素感知",
+      "subcategories": [
+        {"name": "火元素亲和测定", "description": "测量个体与火元素的天然亲和度"},
+        {"name": "火源探测术", "description": "感知环境中火元素能量的技术"},
+        {"name": "热能波动解读", "description": "解读火元素波动携带的信息"},
+        {"name": "火元素脉络图绘", "description": "绘制环境中火元素脉络的方法"},
+        {"name": "火灵沟通术", "description": "与火元素精灵建立联系的技术"}
+      ]
+    },
+    {
+      "name": "基础火焰操控",
+      "subcategories": [
+        {"name": "火苗引燃术", "description": "从无到有创造火焰的基础魔法"},
+        {"name": "火焰形态塑造", "description": "控制火焰形状和大小的技术"},
+        {"name": "温度精准调控", "description": "精确控制火焰温度的方法"},
+        {"name": "持久火源维持", "description": "维持火焰长时间稳定燃烧的技术"},
+        {"name": "火焰移位术", "description": "将已存在的火焰转移到新位置"}
+      ]
+    },
+    {
+      "name": "高级火焰技术",
+      "subcategories": [
+        {"name": "彩色火焰炼成", "description": "创造特定颜色火焰的高级技术"},
+        {"name": "无烟火焰构建", "description": "创造不产生烟雾的纯净火焰"},
+        {"name": "冷焰术", "description": "创造不产生热量的火焰幻象"},
+        {"name": "引火入体", "description": "将火元素能量导入生物体内的技术"},
+        {"name": "火焰分离术", "description": "将单一火源分离为多个独立火焰"}
+      ]
+    },
+    {
+      "name": "火元素战斗应用",
+      "subcategories": [
+        {"name": "火球术理论与实践", "description": "研究经典火球魔法的原理与应用"},
+        {"name": "火墙构筑技术", "description": "创建火焰屏障的方法与理论"},
+        {"name": "爆炎控制学", "description": "控制火焰爆炸范围和威力的技术"},
+        {"name": "追踪火弹设计", "description": "创造能追踪目标的火元素弹体"},
+        {"name": "燃烧诅咒植入", "description": "将持续燃烧效果附着于目标的技术"}
+      ]
+    },
+    {
+      "name": "火元素防御术",
+      "subcategories": [
+        {"name": "耐火护盾塑造", "description": "创造抵御火焰伤害的魔法护盾"},
+        {"name": "火焰吸收术", "description": "吸收并转化敌方火焰攻击的技术"},
+        {"name": "热能扩散阵", "description": "分散热能以减轻火焰伤害的阵法"},
+        {"name": "抗火体质强化", "description": "增强个体对火焰抵抗力的魔法"},
+        {"name": "火源熄灭术", "description": "快速扑灭魔法火焰的技术"}
+      ]
+    },
+    {
+      "name": "炼金火焰学",
+      "subcategories": [
+        {"name": "魔法锻造之火", "description": "用于锻造魔法物品的特殊火焰"},
+        {"name": "炼金催化之焰", "description": "加速炼金反应的特殊火焰"},
+        {"name": "纯化烈火术", "description": "用火焰净化材料杂质的技术"},
+        {"name": "灵魂之火提炼", "description": "提取和操纵灵魂能量火焰的方法"},
+        {"name": "永恒火种保存", "description": "创造和维持永不熄灭的火种"}
+      ]
+    },
+    {
+      "name": "仪式火焰学",
+      "subcategories": [
+        {"name": "祭祀圣火引导", "description": "在仪式中引导和维持神圣火焰"},
+        {"name": "火焰占卜术", "description": "通过观察火焰形态预测未来"},
+        {"name": "焰色仪式设计", "description": "设计利用不同颜色火焰的仪式"},
+        {"name": "火元素祝福术", "description": "通过火焰传递祝福的仪式"},
+        {"name": "火焰净化仪式", "description": "利用火焰净化场所或物品的仪式"}
+      ]
+    },
+    {
+      "name": "特殊火焰研究",
+      "subcategories": [
+        {"name": "龙焰模拟术", "description": "研究和模拟龙族火焰的特性"},
+        {"name": "魔核火焰融合", "description": "将魔法核心能量与火焰融合的技术"},
+        {"name": "异界火元素学", "description": "研究来自其他位面的火元素特性"},
+        {"name": "灵魂烈焰理论", "description": "研究能燃烧灵魂的神秘火焰"},
+        {"name": "原初火焰追溯", "description": "研究世界最初火焰的本质与特性"}
+      ]
+    }
+  ]
+} 

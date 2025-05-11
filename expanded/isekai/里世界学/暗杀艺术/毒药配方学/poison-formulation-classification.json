@@ -1,0 +1,86 @@
+{
+  "name": "毒药配方学",
+  "description": "研究各类毒物的制备、应用与解毒的秘密学问",
+  "quaternaryCategories": [
+    {
+      "name": "植物毒素学",
+      "subcategories": [
+        {"name": "暗影花毒素提取", "description": "从暗影花中提取神经毒素的技术"},
+        {"name": "死亡蘑菇培养", "description": "培养和提取剧毒蘑菇成分的方法"},
+        {"name": "毒藤制剂研究", "description": "利用各种毒藤制作长效毒药的方法"},
+        {"name": "幻觉植物混合物", "description": "调配能导致幻觉和错乱的植物混合物"},
+        {"name": "季节性毒果采集", "description": "在不同季节采集特定毒果的技术"}
+      ]
+    },
+    {
+      "name": "动物毒素学",
+      "subcategories": [
+        {"name": "蛇毒精炼术", "description": "提取和精炼各种蛇毒的方法"},
+        {"name": "蜘蛛毒素合成", "description": "合成和强化蜘蛛毒素的技术"},
+        {"name": "海洋毒物提取", "description": "从海洋生物中提取稳定毒素的方法"},
+        {"name": "魔兽毒腺采集", "description": "从魔法生物中安全采集毒腺的技术"},
+        {"name": "复合毒素强化", "description": "将多种动物毒素结合以增强效果的方法"}
+      ]
+    },
+    {
+      "name": "矿物毒药学",
+      "subcategories": [
+        {"name": "重金属毒剂", "description": "使用重金属制作慢性毒药的技术"},
+        {"name": "晶体毒物合成", "description": "合成无色无味晶体毒物的方法"},
+        {"name": "魔法矿石毒化", "description": "激活矿石中潜在毒性的魔法技术"},
+        {"name": "粉尘毒物配制", "description": "制作可吸入型粉尘毒物的方法"},
+        {"name": "溶解性毒矿研究", "description": "研究在液体中缓慢溶解的毒性矿物"}
+      ]
+    },
+    {
+      "name": "合成毒药学",
+      "subcategories": [
+        {"name": "速效致命剂配方", "description": "配制能快速致命的合成毒药"},
+        {"name": "缓效毒药研制", "description": "研制能在数日后才显现症状的毒药"},
+        {"name": "特定器官靶向毒", "description": "开发针对特定身体器官的毒药"},
+        {"name": "混合溶剂毒药", "description": "在特殊溶剂中混合的复合型毒药"},
+        {"name": "状态模拟毒剂", "description": "能模拟自然死亡或疾病的毒药"}
+      ]
+    },
+    {
+      "name": "魔法毒药学",
+      "subcategories": [
+        {"name": "魔力封锁毒剂", "description": "能临时封锁目标魔力的特殊毒药"},
+        {"name": "灵魂污染毒素", "description": "影响灵魂能量的黑暗毒药"},
+        {"name": "元素注入毒药", "description": "注入元素魔法的强化毒药"},
+        {"name": "诅咒触媒毒物", "description": "作为诅咒媒介的特殊毒物"},
+        {"name": "反魔法生物毒", "description": "专门针对魔法生物的特效毒药"}
+      ]
+    },
+    {
+      "name": "毒药应用技术",
+      "subcategories": [
+        {"name": "武器涂毒法", "description": "在各类武器上正确涂抹毒药的技术"},
+        {"name": "饮食毒化技巧", "description": "在食物和饮料中添加毒药而不被发现的方法"},
+        {"name": "空气毒化术", "description": "将毒药扩散到空气中的技术"},
+        {"name": "接触型毒药应用", "description": "使用只需皮肤接触即可生效的毒药技术"},
+        {"name": "延时释放设计", "description": "设计在特定条件下才释放毒素的装置"}
+      ]
+    },
+    {
+      "name": "解毒与免疫学",
+      "subcategories": [
+        {"name": "通用解毒剂研制", "description": "研发能对抗多种毒素的解毒剂"},
+        {"name": "自身毒素耐受", "description": "训练自身对特定毒素的耐受性"},
+        {"name": "解毒草药栽培", "description": "培育和保存珍稀解毒草药的技术"},
+        {"name": "毒素识别术", "description": "快速识别中毒类型的方法"},
+        {"name": "紧急解毒技术", "description": "在野外条件下应用的应急解毒方法"}
+      ]
+    },
+    {
+      "name": "毒药侦测逃避",
+      "subcategories": [
+        {"name": "味道掩盖技术", "description": "掩盖毒药特殊味道的方法"},
+        {"name": "侦测魔法规避", "description": "避开魔法侦测的毒药配制技术"},
+        {"name": "解剖痕迹消除", "description": "减少或消除可被解剖发现的痕迹"},
+        {"name": "分解型毒物设计", "description": "设计能在目标体内迅速分解的毒物"},
+        {"name": "仿自然毒素合成", "description": "合成与自然毒素难以区分的人工毒药"}
+      ]
+    }
+  ]
+} 

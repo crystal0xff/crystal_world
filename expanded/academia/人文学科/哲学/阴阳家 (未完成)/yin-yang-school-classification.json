@@ -1,0 +1,86 @@
+{
+  "name": "阴阳家哲学",
+  "description": "研究宇宙万物阴阳五行相生相克关系的先秦哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "阴阳家经典研究",
+      "subcategories": [
+        {"name": "邹衍思想研究", "description": "研究阴阳家代表人物邹衍的哲学思想"},
+        {"name": "《易传》阴阳思想", "description": "探讨《易传》中的阴阳哲学思想"},
+        {"name": "《黄帝内经》阴阳观", "description": "分析《黄帝内经》中的阴阳五行理论"},
+        {"name": "《吕氏春秋》中的阴阳学说", "description": "研究《吕氏春秋》中关于阴阳五行的记载"},
+        {"name": "阴阳家文献考辨", "description": "整理和考证阴阳家相关的历史文献资料"}
+      ]
+    },
+    {
+      "name": "宇宙本体论",
+      "subcategories": [
+        {"name": "太极阴阳论", "description": "研究阴阳家关于太极生两仪的宇宙本源理论"},
+        {"name": "五行本体说", "description": "探讨金木水火土五行作为基本元素的思想"},
+        {"name": "阴阳对立统一", "description": "分析阴阳相反相成、对立统一的辩证思想"},
+        {"name": "气化宇宙论", "description": "研究阴阳家关于气作为宇宙本原的理论"},
+        {"name": "宇宙秩序观", "description": "探讨阴阳家对宇宙有序结构的理解"}
+      ]
+    },
+    {
+      "name": "自然哲学",
+      "subcategories": [
+        {"name": "五行相生相克理论", "description": "研究五行之间相互生成和制约的规律"},
+        {"name": "天人感应说", "description": "探讨天象变化与人事的对应关系理论"},
+        {"name": "四时五方学说", "description": "分析四季、五方与五行对应的空间时间理论"},
+        {"name": "灾异理论", "description": "研究阴阳失调导致自然灾害的思想"},
+        {"name": "自然周期论", "description": "探讨阴阳家关于自然现象周期变化的理解"}
+      ]
+    },
+    {
+      "name": "政治哲学",
+      "subcategories": [
+        {"name": "五德终始说", "description": "研究阴阳家的政权更替理论"},
+        {"name": "阴阳政治伦理", "description": "探讨阴阳家将阴阳理论应用于政治伦理的思想"},
+        {"name": "天人政治论", "description": "分析阴阳家天人关系在政治领域的应用"},
+        {"name": "帝王五行术", "description": "研究阴阳家为帝王制定的政治理论与方法"},
+        {"name": "历史周期观", "description": "探讨阴阳家对历史发展周期性的理解"}
+      ]
+    },
+    {
+      "name": "医学思想",
+      "subcategories": [
+        {"name": "阴阳平衡医学", "description": "研究基于阴阳平衡的医学理论体系"},
+        {"name": "五脏六腑学说", "description": "探讨五行与人体脏腑对应关系的理论"},
+        {"name": "经络气血理论", "description": "分析阴阳家关于经络与气血运行的学说"},
+        {"name": "四诊八纲", "description": "研究中医辨证方法中的阴阳五行思想"},
+        {"name": "五行药性理论", "description": "探讨药物性质与五行对应关系的理论"}
+      ]
+    },
+    {
+      "name": "术数预测学",
+      "subcategories": [
+        {"name": "命理五行学", "description": "研究基于阴阳五行的命运预测体系"},
+        {"name": "阴阳占卜术", "description": "探讨利用阴阳原理进行占卜的方法"},
+        {"name": "五行相生相克预测", "description": "分析利用五行关系进行预测的理论"},
+        {"name": "天象灾异预测", "description": "研究通过天象变化预测人事变化的方法"},
+        {"name": "阴阳历法学", "description": "探讨阴阳家的时间计算与历法系统"}
+      ]
+    },
+    {
+      "name": "比较研究",
+      "subcategories": [
+        {"name": "阴阳家与道家比较", "description": "比较阴阳家与道家在宇宙本体观上的异同"},
+        {"name": "阴阳家与儒家比较", "description": "探讨阴阳家思想与儒家伦理的融合与差异"},
+        {"name": "阴阳家与墨家比较", "description": "研究阴阳家与墨家在科学方法上的不同路径"},
+        {"name": "阴阳家与中医学派比较", "description": "分析阴阳家思想对不同中医学派的影响"},
+        {"name": "阴阳学说与西方二元论比较", "description": "比较中国阴阳观与西方二元论的哲学差异"}
+      ]
+    },
+    {
+      "name": "现代价值研究",
+      "subcategories": [
+        {"name": "阴阳思维的现代解读", "description": "研究阴阳辩证思维在现代学术中的应用"},
+        {"name": "五行理论的科学评价", "description": "探讨五行理论在现代科学视角下的价值"},
+        {"name": "阴阳哲学的生态学意义", "description": "分析阴阳平衡思想对生态文明建设的启示"},
+        {"name": "阴阳五行在中医现代化中的作用", "description": "研究阴阳五行理论在中医现代化进程中的地位"},
+        {"name": "阴阳哲学与系统科学", "description": "探讨阴阳五行思想与现代系统科学的关联"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "价值论",
+  "description": "研究价值的本质、类型、标准及其在人类生活中意义的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "价值本质研究",
+      "subcategories": [
+        {"name": "价值定义理论", "description": "探讨价值的本质与概念界定"},
+        {"name": "价值客观性问题", "description": "研究价值是否具有客观基础"},
+        {"name": "价值主观性理论", "description": "探讨价值作为主观反应的理论"},
+        {"name": "价值相对主义", "description": "分析价值标准的相对性理论"},
+        {"name": "价值绝对主义", "description": "研究绝对价值标准的可能性"}
+      ]
+    },
+    {
+      "name": "价值类型学",
+      "subcategories": [
+        {"name": "内在价值理论", "description": "研究事物本身具有的价值"},
+        {"name": "工具价值研究", "description": "探讨事物作为手段的价值"},
+        {"name": "经济价值分析", "description": "研究物品交换和使用的价值"},
+        {"name": "精神价值理论", "description": "分析精神领域的价值形态"},
+        {"name": "生命价值研究", "description": "探讨生命存在的价值意义"}
+      ]
+    },
+    {
+      "name": "价值认知论",
+      "subcategories": [
+        {"name": "价值直觉理论", "description": "研究通过直觉把握价值的方式"},
+        {"name": "价值理性主义", "description": "强调理性在价值判断中的作用"},
+        {"name": "价值情感主义", "description": "探讨情感在价值认知中的地位"},
+        {"name": "价值经验论", "description": "基于经验分析价值认知的理论"},
+        {"name": "价值怀疑论", "description": "对价值认知可能性的怀疑立场"}
+      ]
+    },
+    {
+      "name": "文化价值理论",
+      "subcategories": [
+        {"name": "文化相对主义", "description": "探讨不同文化价值体系的多样性"},
+        {"name": "文化价值冲突", "description": "分析不同文化价值观念的冲突"},
+        {"name": "传统与现代价值", "description": "研究传统与现代价值观的张力"},
+        {"name": "全球化价值问题", "description": "探讨全球化背景下的价值融合与冲突"},
+        {"name": "文化价值认同", "description": "研究个体对文化价值的认同机制"}
+      ]
+    },
+    {
+      "name": "社会价值理论",
+      "subcategories": [
+        {"name": "社会价值构成", "description": "分析构成社会价值体系的要素"},
+        {"name": "社会价值变迁", "description": "研究社会价值观念的历史变迁"},
+        {"name": "价值与权力关系", "description": "探讨价值观念与社会权力的关系"},
+        {"name": "集体价值共识", "description": "研究社会价值共识的形成机制"},
+        {"name": "社会价值批判", "description": "对主流社会价值的批判性分析"}
+      ]
+    },
+    {
+      "name": "应用价值论",
+      "subcategories": [
+        {"name": "科学研究价值", "description": "研究科学活动中的价值问题"},
+        {"name": "技术应用价值", "description": "探讨技术发展的价值导向"},
+        {"name": "教育价值理论", "description": "分析教育活动的价值基础"},
+        {"name": "医学伦理价值", "description": "研究医疗实践中的价值判断"},
+        {"name": "环境价值理论", "description": "探讨自然环境的价值定位"}
+      ]
+    },
+    {
+      "name": "价值判断理论",
+      "subcategories": [
+        {"name": "价值判断结构", "description": "分析价值判断的逻辑结构"},
+        {"name": "价值判断标准", "description": "研究价值判断的依据和标准"},
+        {"name": "价值评估方法", "description": "探讨不同领域价值评估的方法"},
+        {"name": "价值判断误区", "description": "分析价值判断中的常见谬误"},
+        {"name": "价值判断冲突", "description": "研究不同价值判断之间的冲突"}
+      ]
+    },
+    {
+      "name": "元价值理论",
+      "subcategories": [
+        {"name": "价值理论基础", "description": "探讨价值理论的哲学基础"},
+        {"name": "价值理论方法", "description": "研究价值研究的方法论问题"},
+        {"name": "价值与存在关系", "description": "分析价值与存在的哲学关系"},
+        {"name": "价值与真理关系", "description": "探讨价值判断与真理判断的关系"},
+        {"name": "价值理论历史", "description": "研究价值理论的历史发展"}
+      ]
+    }
+  ]
+} 

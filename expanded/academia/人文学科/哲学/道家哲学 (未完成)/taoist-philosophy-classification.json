@@ -1,0 +1,86 @@
+{
+  "name": "道家哲学",
+  "description": "以道为核心概念，强调自然无为的中国传统哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "道家经典研究",
+      "subcategories": [
+        {"name": "《道德经》诠释", "description": "研究老子《道德经》的文本与思想"},
+        {"name": "《庄子》哲学", "description": "探讨庄子思想体系与寓言方法"},
+        {"name": "《列子》研究", "description": "分析《列子》中的哲学观点与思想特色"},
+        {"name": "《淮南子》道论", "description": "研究《淮南子》中的道家思想成分"},
+        {"name": "道家文献考证", "description": "考察道家典籍的版本、真伪与流变"}
+      ]
+    },
+    {
+      "name": "道家本体论",
+      "subcategories": [
+        {"name": "道论研究", "description": "探讨道的本体论意义与特性"},
+        {"name": "无与有关系", "description": "研究无与有的辩证关系与哲学意义"},
+        {"name": "自然本体观", "description": "分析道家对自然本质的理解"},
+        {"name": "道与万物关系", "description": "探讨道与万物生成关系的哲学思考"},
+        {"name": "虚无哲学", "description": "研究道家虚无观念的哲学内涵"}
+      ]
+    },
+    {
+      "name": "道家认识论",
+      "subcategories": [
+        {"name": "逍遥知论", "description": "研究庄子逍遥游中的认识论思想"},
+        {"name": "明与晦辩证", "description": "探讨明晰与晦暗在认识中的辩证关系"},
+        {"name": "知与不知关系", "description": "分析知识与无知在道家思想中的地位"},
+        {"name": "感官认识批判", "description": "研究道家对感官认识局限性的批判"},
+        {"name": "直觉体悟论", "description": "探讨道家直觉体验的认识论价值"}
+      ]
+    },
+    {
+      "name": "道家人生哲学",
+      "subcategories": [
+        {"name": "无为思想", "description": "研究道家无为而治的人生态度"},
+        {"name": "自然适性论", "description": "探讨顺应自然、适性而为的生活理念"},
+        {"name": "逍遥精神", "description": "分析庄子逍遥精神的哲学内涵"},
+        {"name": "生死观研究", "description": "研究道家对生死问题的哲学思考"},
+        {"name": "齐物思想", "description": "探讨万物平等、物我为一的哲学观"}
+      ]
+    },
+    {
+      "name": "道家政治哲学",
+      "subcategories": [
+        {"name": "无为而治", "description": "研究道家无为而治的政治理念"},
+        {"name": "小国寡民", "description": "探讨老子小国寡民的社会理想"},
+        {"name": "自然政道", "description": "分析顺应自然的政治道路思想"},
+        {"name": "非礼非义", "description": "研究道家对儒家礼义政治的批判"},
+        {"name": "反智反文明", "description": "探讨道家对人为文明的批判立场"}
+      ]
+    },
+    {
+      "name": "道家美学思想",
+      "subcategories": [
+        {"name": "天地美学", "description": "研究道家对自然美的哲学思考"},
+        {"name": "朴素美学", "description": "探讨返朴归真的美学理念"},
+        {"name": "虚静美学", "description": "分析虚静状态的美学价值"},
+        {"name": "艺术无为论", "description": "研究艺术创作中的无为思想"},
+        {"name": "道家意境论", "description": "探讨道家对艺术意境的哲学贡献"}
+      ]
+    },
+    {
+      "name": "道家与其他学派关系",
+      "subcategories": [
+        {"name": "道儒比较", "description": "比较道家与儒家的哲学异同"},
+        {"name": "道法关系", "description": "研究道家与法家思想的交流与影响"},
+        {"name": "道墨互动", "description": "分析道家与墨家的思想互动"},
+        {"name": "道佛融合", "description": "探讨道家与佛教思想的融合过程"},
+        {"name": "道家与名家", "description": "研究道家与名家的逻辑思想比较"}
+      ]
+    },
+    {
+      "name": "现代道家诠释",
+      "subcategories": [
+        {"name": "道家生态哲学", "description": "从生态视角解读道家思想"},
+        {"name": "道家心理学解读", "description": "用现代心理学诠释道家智慧"},
+        {"name": "道家与现代科学", "description": "探讨道家思想与现代科学的对话"},
+        {"name": "全球化视野下的道家", "description": "研究全球化背景下道家思想的价值"},
+        {"name": "道家与后现代思潮", "description": "分析道家与后现代思潮的思想共鸣"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "兵家哲学",
+  "description": "研究军事谋略、战争规律与军事思想的古代哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "兵家经典研究",
+      "subcategories": [
+        {"name": "《孙子兵法》研究", "description": "研究孙武《孙子兵法》的军事思想与哲学"},
+        {"name": "《吴子》研究", "description": "探讨吴起《吴子》的军事理论体系"},
+        {"name": "《孙膑兵法》研究", "description": "分析孙膑军事思想及其著作"},
+        {"name": "《六韬》《三略》研究", "description": "研究先秦至汉代兵家经典的思想内涵"},
+        {"name": "兵家文献整理与考辨", "description": "整理和考证兵家相关的历史文献资料"}
+      ]
+    },
+    {
+      "name": "军事哲学思想",
+      "subcategories": [
+        {"name": "战争本质论", "description": "研究兵家对战争本质的哲学思考"},
+        {"name": "兵以诈立理论", "description": "探讨兵家关于战争欺诈性的辩证思想"},
+        {"name": "兵家认知论", "description": "分析兵家对战场认知与情报的哲学思考"},
+        {"name": "胜利哲学", "description": "研究兵家对军事胜利本质与途径的理解"},
+        {"name": "军事辩证法", "description": "探讨兵家军事思想中的辩证思维方法"}
+      ]
+    },
+    {
+      "name": "战略思想",
+      "subcategories": [
+        {"name": "全局战略观", "description": "研究兵家对战争全局把握的战略思想"},
+        {"name": "先胜后战理论", "description": "探讨知己知彼、先胜后战的战略原则"},
+        {"name": "因敌制胜策略", "description": "分析依据敌情调整战略的思想方法"},
+        {"name": "政治战略关系", "description": "研究兵家对政治与军事关系的战略思考"},
+        {"name": "和战一体思想", "description": "探讨兵家和平与战争辩证关系的理论"}
+      ]
+    },
+    {
+      "name": "战术理论",
+      "subcategories": [
+        {"name": "奇正结合战术", "description": "研究兵家奇兵与正兵相结合的战术思想"},
+        {"name": "兵势理论", "description": "探讨形势、气势在战争中的运用"},
+        {"name": "兵形学说", "description": "分析兵家关于军队阵型变化的理论"},
+        {"name": "虚实转换战术", "description": "研究利用虚实变化取胜的战术方法"},
+        {"name": "地形运用", "description": "探讨兵家对地形因素战术应用的理论"}
+      ]
+    },
+    {
+      "name": "军事指挥艺术",
+      "subcategories": [
+        {"name": "将帅修养论", "description": "研究兵家对军事指挥者素质要求的理论"},
+        {"name": "临机决断思想", "description": "探讨兵家关于战场决策的思想"},
+        {"name": "军事心理战", "description": "分析兵家运用心理因素影响战局的方法"},
+        {"name": "军令统一原则", "description": "研究兵家关于军队指挥权统一的思想"},
+        {"name": "治军方略", "description": "探讨兵家管理军队的原则与方法"}
+      ]
+    },
+    {
+      "name": "军事伦理思想",
+      "subcategories": [
+        {"name": "战争伦理观", "description": "研究兵家对战争道德界限的思考"},
+        {"name": "仁义之师思想", "description": "探讨兵家关于正义战争的伦理观"},
+        {"name": "爱民思想", "description": "分析兵家对军民关系的伦理思考"},
+        {"name": "军人德性论", "description": "研究兵家对军人道德规范的要求"},
+        {"name": "战争节制观", "description": "探讨兵家对战争行为限度的伦理思想"}
+      ]
+    },
+    {
+      "name": "比较研究",
+      "subcategories": [
+        {"name": "兵家与儒家思想比较", "description": "比较兵家与儒家在政治军事观上的异同"},
+        {"name": "兵家与道家思想比较", "description": "探讨兵家与道家在无为与有为问题上的联系"},
+        {"name": "兵家与法家思想比较", "description": "研究兵家与法家在治国安邦方略上的差异"},
+        {"name": "中西军事思想比较", "description": "比较中国兵家与西方军事思想家的理论"},
+        {"name": "古今军事理论比较", "description": "探讨古代兵家思想与现代军事理论的联系"}
+      ]
+    },
+    {
+      "name": "现代应用研究",
+      "subcategories": [
+        {"name": "兵家思想与现代战略", "description": "研究兵家思想在现代军事战略中的应用"},
+        {"name": "兵家思想与商业竞争", "description": "探讨兵家理论在现代商业竞争中的应用"},
+        {"name": "兵家思想与危机管理", "description": "分析兵家思想对现代危机管理的启示"},
+        {"name": "兵家思想与领导艺术", "description": "研究兵家思想对现代领导方法的启发"},
+        {"name": "兵家思想与国际关系", "description": "探讨兵家思想在国际政治博弈中的价值"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "形而上学",
+  "description": "研究存在的本质、实在性和宇宙基本结构的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "本体论",
+      "subcategories": [
+        {"name": "存在学", "description": "研究存在的本质和基本范畴"},
+        {"name": "实体理论", "description": "探讨独立自存实体的性质"},
+        {"name": "本质与偶性", "description": "研究事物本质与非本质属性的区分"},
+        {"name": "普遍性问题", "description": "探讨共相与殊相的关系"},
+        {"name": "虚无研究", "description": "研究不存在和虚无的哲学意义"}
+      ]
+    },
+    {
+      "name": "宇宙论",
+      "subcategories": [
+        {"name": "宇宙起源论", "description": "研究宇宙的起源和本原问题"},
+        {"name": "秩序与混沌", "description": "探讨宇宙中秩序与混沌的关系"},
+        {"name": "整体与部分", "description": "研究整体与部分之间的关系"},
+        {"name": "目的论", "description": "探讨宇宙是否具有目的性"},
+        {"name": "统一性理论", "description": "研究多样性中的统一性原则"}
+      ]
+    },
+    {
+      "name": "形上范畴学",
+      "subcategories": [
+        {"name": "实体与属性", "description": "研究实体与属性的形上学关系"},
+        {"name": "因果关系论", "description": "探讨因果关系的本质和必然性"},
+        {"name": "时空本质研究", "description": "研究时间与空间的形而上学本质"},
+        {"name": "可能性与必然性", "description": "探讨模态概念的形而上学基础"},
+        {"name": "关系本质论", "description": "研究关系的形而上学地位"}
+      ]
+    },
+    {
+      "name": "心物关系论",
+      "subcategories": [
+        {"name": "心物二元论", "description": "探讨心灵与物质作为两种独立实体的关系"},
+        {"name": "唯物主义", "description": "认为物质是唯一实在的形而上学立场"},
+        {"name": "唯心主义", "description": "认为心灵或精神是基础实在的立场"},
+        {"name": "中性一元论", "description": "主张存在一种既非心亦非物的基础实在"},
+        {"name": "泛灵论", "description": "认为一切事物都具有精神性的学说"}
+      ]
+    },
+    {
+      "name": "神学形而上学",
+      "subcategories": [
+        {"name": "神存在证明", "description": "探讨证明神存在的形而上学论证"},
+        {"name": "神圣属性论", "description": "研究神的本质属性"},
+        {"name": "神与世界关系", "description": "探讨神与自然世界的关系"},
+        {"name": "宗教实在论", "description": "研究宗教实体的形而上学地位"},
+        {"name": "终极实在论", "description": "探讨终极实在的本质"}
+      ]
+    },
+    {
+      "name": "自由意志问题",
+      "subcategories": [
+        {"name": "决定论与自由", "description": "探讨宇宙决定论与自由意志的关系"},
+        {"name": "相容论", "description": "主张决定论与自由意志可以相容"},
+        {"name": "非相容论", "description": "主张决定论与自由意志不可相容"},
+        {"name": "自由决定论", "description": "研究人类行为的因果决定与自由选择"},
+        {"name": "责任形而上学", "description": "探讨道德责任的形而上学基础"}
+      ]
+    },
+    {
+      "name": "实在与表象",
+      "subcategories": [
+        {"name": "现象与本体", "description": "研究表象世界与本体世界的关系"},
+        {"name": "实在论", "description": "主张独立于心灵的客观实在存在"},
+        {"name": "反实在论", "description": "质疑独立于心灵的客观实在"},
+        {"name": "构造主义", "description": "探讨实在是如何被构造的"},
+        {"name": "幻象理论", "description": "研究错觉和幻象的形而上学意义"}
+      ]
+    },
+    {
+      "name": "形上方法论",
+      "subcategories": [
+        {"name": "先验推理", "description": "研究独立于经验的纯粹理性推理方法"},
+        {"name": "思想实验", "description": "利用假设情境探索形而上学问题"},
+        {"name": "概念分析", "description": "通过概念分析阐明形而上学问题"},
+        {"name": "形上直觉", "description": "研究形而上学直觉的来源和可靠性"},
+        {"name": "形而上学简约论", "description": "应用简约原则于形而上学理论选择"}
+      ]
+    }
+  ]
+} 

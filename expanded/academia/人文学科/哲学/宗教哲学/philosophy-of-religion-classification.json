@@ -1,0 +1,86 @@
+{
+  "name": "宗教哲学",
+  "description": "研究宗教观念、经验、实践的哲学分析与宗教信仰基础的分支",
+  "quaternaryCategories": [
+    {
+      "name": "神存在论证",
+      "subcategories": [
+        {"name": "本体论证明", "description": "从神的概念本身推导其存在的论证"},
+        {"name": "宇宙论证明", "description": "从宇宙存在推导神必然存在的论证"},
+        {"name": "目的论证明", "description": "从自然界的设计特征推导神存在的论证"},
+        {"name": "道德论证", "description": "从道德实在性推论神存在的论证"},
+        {"name": "宗教经验论证", "description": "基于宗教经验证明神存在的方法"}
+      ]
+    },
+    {
+      "name": "神性属性研究",
+      "subcategories": [
+        {"name": "全能性分析", "description": "探讨神全能属性的逻辑和含义"},
+        {"name": "全知性研究", "description": "分析神全知属性的哲学问题"},
+        {"name": "至善性探讨", "description": "研究神完全善良属性的含义"},
+        {"name": "永恒性问题", "description": "探讨神与时间关系的哲学分析"},
+        {"name": "神性简单性", "description": "研究神的非复合性质的哲学理论"}
+      ]
+    },
+    {
+      "name": "宗教认识论",
+      "subcategories": [
+        {"name": "宗教知识本质", "description": "探讨宗教知识的性质和可能性"},
+        {"name": "启示与理性关系", "description": "研究宗教启示与理性思维的关系"},
+        {"name": "宗教信念确证", "description": "分析宗教信念的合理确证方式"},
+        {"name": "宗教多元问题", "description": "探讨多种宗教真理主张的认识论"},
+        {"name": "宗教语言分析", "description": "研究宗教语言的意义和逻辑"}
+      ]
+    },
+    {
+      "name": "宗教形而上学",
+      "subcategories": [
+        {"name": "创世理论", "description": "探讨世界创造的哲学理解"},
+        {"name": "神-世界关系", "description": "研究神与世界互动的哲学模型"},
+        {"name": "灵魂本质论", "description": "分析灵魂或心灵本质的宗教哲学观"},
+        {"name": "来世存在论", "description": "探讨死后生命存在的哲学问题"},
+        {"name": "神迹可能性", "description": "研究超自然事件的哲学分析"}
+      ]
+    },
+    {
+      "name": "恶的问题",
+      "subcategories": [
+        {"name": "逻辑恶问题", "description": "分析恶的存在与全能全善神的逻辑冲突"},
+        {"name": "证据性恶问题", "description": "探讨恶的存在作为反对神存在的证据"},
+        {"name": "神义论", "description": "研究为神允许恶存在辩护的理论"},
+        {"name": "自由意志辩护", "description": "通过自由意志解释恶存在的方法"},
+        {"name": "灵魂塑造神义论", "description": "将恶视为灵魂成长必要条件的理论"}
+      ]
+    },
+    {
+      "name": "宗教伦理学",
+      "subcategories": [
+        {"name": "神命伦理理论", "description": "基于神的命令建立道德的理论"},
+        {"name": "宗教价值基础", "description": "探讨宗教如何为价值提供基础"},
+        {"name": "宗教德性伦理", "description": "研究宗教传统中的德性培养"},
+        {"name": "宗教与世俗伦理关系", "description": "分析宗教与世俗伦理的对话"},
+        {"name": "宗教实践伦理", "description": "探讨宗教仪式与伦理实践的关系"}
+      ]
+    },
+    {
+      "name": "比较宗教哲学",
+      "subcategories": [
+        {"name": "一神教哲学", "description": "研究犹太教、基督教、伊斯兰教的哲学"},
+        {"name": "东方宗教哲学", "description": "探讨印度教、佛教等东方宗教的哲学"},
+        {"name": "神秘主义传统", "description": "分析各宗教中的神秘主义传统"},
+        {"name": "宗教对话哲学", "description": "研究跨宗教对话的哲学基础"},
+        {"name": "无神论与宗教关系", "description": "探讨宗教与无神论传统的对话"}
+      ]
+    },
+    {
+      "name": "宗教与科学",
+      "subcategories": [
+        {"name": "宗教-科学冲突模型", "description": "分析宗教与科学冲突的观点"},
+        {"name": "宗教-科学相容论", "description": "探讨宗教与科学和谐共存的理论"},
+        {"name": "进化论与宗教", "description": "研究进化理论与宗教信仰的关系"},
+        {"name": "宇宙起源与宗教", "description": "分析宇宙起源科学与宗教观的关系"},
+        {"name": "认知科学与宗教研究", "description": "探讨认知科学对宗教现象的解释"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "分析哲学",
+  "description": "强调语言分析、逻辑和概念澄清的哲学传统",
+  "quaternaryCategories": [
+    {
+      "name": "语言哲学方向",
+      "subcategories": [
+        {"name": "逻辑分析传统", "description": "使用逻辑工具分析语言的哲学传统"},
+        {"name": "日常语言哲学", "description": "关注日常语言使用的哲学研究"},
+        {"name": "意义理论", "description": "研究语言表达意义的哲学理论"},
+        {"name": "指称理论", "description": "分析语言如何指向世界的理论"},
+        {"name": "语用学分析", "description": "研究语言使用的语境和行为维度"}
+      ]
+    },
+    {
+      "name": "形而上学分析",
+      "subcategories": [
+        {"name": "分析本体论", "description": "运用分析方法研究存在范畴"},
+        {"name": "可能世界语义学", "description": "使用可能世界概念分析模态语言"},
+        {"name": "同一性理论", "description": "研究对象同一性的哲学问题"},
+        {"name": "形式因果论", "description": "分析因果关系的哲学结构"},
+        {"name": "元形而上学", "description": "研究形而上学主张的性质和方法"}
+      ]
+    },
+    {
+      "name": "认识论方向",
+      "subcategories": [
+        {"name": "知识分析", "description": "分析知识概念及其条件"},
+        {"name": "证据理论", "description": "研究证据的哲学性质和结构"},
+        {"name": "确证理论", "description": "分析信念确证的哲学问题"},
+        {"name": "知识论自然化", "description": "结合科学研究知识现象"},
+        {"name": "认识论语境主义", "description": "探讨知识归属的语境敏感性"}
+      ]
+    },
+    {
+      "name": "心灵哲学研究",
+      "subcategories": [
+        {"name": "功能主义", "description": "分析心理状态作为功能状态的理论"},
+        {"name": "心脑同一论", "description": "研究心理状态与脑状态关系的理论"},
+        {"name": "消除主义", "description": "主张日常心理概念应被科学替代的立场"},
+        {"name": "非还原物理主义", "description": "主张心理现象依赖但不可还原为物理的立场"},
+        {"name": "意向性分析", "description": "研究心理状态指向性的哲学分析"}
+      ]
+    },
+    {
+      "name": "逻辑与数学哲学",
+      "subcategories": [
+        {"name": "逻辑基础研究", "description": "探讨逻辑系统的哲学基础"},
+        {"name": "数学基础理论", "description": "研究数学概念和真理的性质"},
+        {"name": "集合论哲学", "description": "分析集合概念的哲学问题"},
+        {"name": "构造主义逻辑", "description": "探讨基于构造主义的逻辑系统"},
+        {"name": "悖论研究", "description": "分析逻辑和语义悖论的哲学意义"}
+      ]
+    },
+    {
+      "name": "价值理论分析",
+      "subcategories": [
+        {"name": "元伦理学分析", "description": "研究道德语言和概念的性质"},
+        {"name": "分析规范伦理学", "description": "使用分析方法研究道德原则"},
+        {"name": "道德心理学", "description": "分析道德判断与动机的关系"},
+        {"name": "分析美学", "description": "应用分析方法研究美学概念"},
+        {"name": "价值概念分析", "description": "探讨价值概念的逻辑和语义结构"}
+      ]
+    },
+    {
+      "name": "科学哲学分析",
+      "subcategories": [
+        {"name": "科学解释理论", "description": "分析科学解释的逻辑结构"},
+        {"name": "科学实在论辩论", "description": "探讨科学理论的认知地位"},
+        {"name": "科学语言分析", "description": "研究科学语言的哲学特性"},
+        {"name": "概率与归纳逻辑", "description": "分析归纳推理和概率的哲学基础"},
+        {"name": "科学实践哲学", "description": "研究科学作为实践活动的哲学维度"}
+      ]
+    },
+    {
+      "name": "分析方法论",
+      "subcategories": [
+        {"name": "概念分析", "description": "通过分解澄清哲学概念的方法"},
+        {"name": "思想实验", "description": "使用假设情境测试哲学直觉的方法"},
+        {"name": "形式化方法", "description": "应用数学和逻辑工具的哲学方法"},
+        {"name": "反思平衡", "description": "寻求理论和直觉平衡的哲学方法"},
+        {"name": "实验哲学", "description": "运用经验方法研究哲学问题的方向"}
+      ]
+    }
+  ]
+} 

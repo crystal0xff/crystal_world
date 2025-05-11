@@ -1,0 +1,86 @@
+{
+  "name": "美学",
+  "description": "研究美、艺术、审美体验及其与人类情感关系的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "美的本质论",
+      "subcategories": [
+        {"name": "美的形式理论", "description": "研究美的形式特征和结构原则"},
+        {"name": "美的表现理论", "description": "探讨美作为情感和生命表现的观点"},
+        {"name": "美的实用理论", "description": "研究美与功能、实用关系的理论"},
+        {"name": "美的客观性问题", "description": "探讨美是否具有客观标准"},
+        {"name": "美的主观性研究", "description": "研究美作为主观体验的特性"}
+      ]
+    },
+    {
+      "name": "艺术哲学",
+      "subcategories": [
+        {"name": "艺术本质论", "description": "探讨艺术的定义与本质特征"},
+        {"name": "艺术创作理论", "description": "研究艺术创作过程的哲学分析"},
+        {"name": "艺术表现与再现", "description": "探讨艺术如何表现或再现现实"},
+        {"name": "艺术真理问题", "description": "研究艺术与真理的关系"},
+        {"name": "艺术符号学", "description": "从符号角度分析艺术的意义"}
+      ]
+    },
+    {
+      "name": "审美体验研究",
+      "subcategories": [
+        {"name": "审美态度理论", "description": "研究审美体验中的特殊心理态度"},
+        {"name": "审美感受分析", "description": "分析审美体验的情感结构"},
+        {"name": "审美判断理论", "description": "探讨审美判断的性质和依据"},
+        {"name": "审美距离说", "description": "研究审美体验中主客体间的心理距离"},
+        {"name": "审美想象理论", "description": "探讨想象在审美体验中的作用"}
+      ]
+    },
+    {
+      "name": "艺术类型学",
+      "subcategories": [
+        {"name": "视觉艺术理论", "description": "研究绘画、雕塑等视觉艺术的哲学问题"},
+        {"name": "文学美学", "description": "探讨文学作为艺术形式的特殊性"},
+        {"name": "音乐哲学", "description": "研究音乐的形式、表现与意义"},
+        {"name": "表演艺术理论", "description": "分析戏剧、舞蹈等表演艺术的美学特性"},
+        {"name": "建筑美学", "description": "研究建筑作为艺术与实用结合的特性"}
+      ]
+    },
+    {
+      "name": "自然美学",
+      "subcategories": [
+        {"name": "自然景观审美", "description": "研究自然风景的审美体验"},
+        {"name": "环境美学", "description": "探讨环境空间的审美维度"},
+        {"name": "生态美学", "description": "研究生态系统的美学价值"},
+        {"name": "自然与艺术比较", "description": "比较自然美与艺术美的异同"},
+        {"name": "身体美学", "description": "研究人体美与身体感知的美学"}
+      ]
+    },
+    {
+      "name": "美学历史",
+      "subcategories": [
+        {"name": "古典美学", "description": "研究古希腊罗马时期的美学思想"},
+        {"name": "中世纪美学", "description": "探讨中世纪宗教与美学的关系"},
+        {"name": "现代美学", "description": "研究启蒙时期至19世纪的美学理论"},
+        {"name": "当代美学思潮", "description": "分析20世纪以来的美学发展"},
+        {"name": "东方美学传统", "description": "研究中国、日本等东方美学思想"}
+      ]
+    },
+    {
+      "name": "社会美学",
+      "subcategories": [
+        {"name": "意识形态与美学", "description": "研究政治意识形态对美学的影响"},
+        {"name": "大众文化美学", "description": "探讨大众文化现象的美学维度"},
+        {"name": "文化身份与审美", "description": "研究文化身份与审美体验的关系"},
+        {"name": "日常生活美学", "description": "分析日常生活中的审美维度"},
+        {"name": "消费社会美学", "description": "研究消费主义对审美的影响"}
+      ]
+    },
+    {
+      "name": "应用美学",
+      "subcategories": [
+        {"name": "设计美学", "description": "研究工业设计、平面设计等领域的美学原则"},
+        {"name": "数字媒体美学", "description": "探讨数字技术创造的新审美形式"},
+        {"name": "城市美学", "description": "研究城市规划与建设的美学维度"},
+        {"name": "艺术教育理论", "description": "探讨审美教育的原则与方法"},
+        {"name": "艺术批评方法论", "description": "研究艺术批评的理论基础与方法"}
+      ]
+    }
+  ]
+} 

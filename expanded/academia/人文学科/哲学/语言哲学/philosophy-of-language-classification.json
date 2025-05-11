@@ -1,0 +1,86 @@
+{
+  "name": "语言哲学",
+  "description": "研究语言本质、意义、指称及其与思维和现实关系的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "意义理论",
+      "subcategories": [
+        {"name": "指称理论", "description": "研究语言表达如何指称对象的理论"},
+        {"name": "真值条件语义学", "description": "通过真值条件分析语句意义的理论"},
+        {"name": "使用理论", "description": "将意义解释为语言使用的理论"},
+        {"name": "心理主义理论", "description": "将意义归结为心理状态的观点"},
+        {"name": "社会约定理论", "description": "基于社会约定解释意义的理论"}
+      ]
+    },
+    {
+      "name": "语言行为理论",
+      "subcategories": [
+        {"name": "言语行为分类", "description": "研究不同类型语言行为的分类"},
+        {"name": "施为语句分析", "description": "分析通过说话实现行动的语句"},
+        {"name": "会话含义理论", "description": "研究语境中间接传达的意义"},
+        {"name": "言语规则研究", "description": "探讨语言使用的规范和规则"},
+        {"name": "语用学基础", "description": "研究语言使用的语境依赖性"}
+      ]
+    },
+    {
+      "name": "语言与心智",
+      "subcategories": [
+        {"name": "思维语言关系", "description": "探讨语言与思维的相互关系"},
+        {"name": "语言决定论", "description": "研究语言对思维的影响程度"},
+        {"name": "语言习得理论", "description": "探讨人类如何获得语言能力"},
+        {"name": "心灵语言假说", "description": "分析思维是否以语言形式进行"},
+        {"name": "概念与语词关系", "description": "研究概念与语言表达的关系"}
+      ]
+    },
+    {
+      "name": "语言逻辑分析",
+      "subcategories": [
+        {"name": "命题分析", "description": "研究语句表达的命题内容"},
+        {"name": "量词理论", "description": "分析语言中量词的逻辑结构"},
+        {"name": "模态表达研究", "description": "探讨可能性与必然性的语言表达"},
+        {"name": "悖论分析", "description": "研究语言中的逻辑悖论问题"},
+        {"name": "真理论述理论", "description": "分析关于真理的语言表述"}
+      ]
+    },
+    {
+      "name": "语言本体论",
+      "subcategories": [
+        {"name": "语言实体研究", "description": "探讨语言单位的存在方式"},
+        {"name": "抽象对象理论", "description": "研究意义和命题作为抽象对象"},
+        {"name": "语言社会本体", "description": "分析语言作为社会现象的存在"},
+        {"name": "自然种类术语", "description": "研究指称自然种类的术语特性"},
+        {"name": "虚构言说分析", "description": "探讨关于虚构对象的语言使用"}
+      ]
+    },
+    {
+      "name": "批判语言哲学",
+      "subcategories": [
+        {"name": "语言批判理论", "description": "批判性分析语言与权力的关系"},
+        {"name": "解构主义分析", "description": "解构语言中的二元对立结构"},
+        {"name": "语言意识形态", "description": "研究语言中的意识形态成分"},
+        {"name": "后现代语言观", "description": "探讨语言作为现实构建工具"},
+        {"name": "女性主义语言观", "description": "分析语言中的性别偏见"}
+      ]
+    },
+    {
+      "name": "语言与世界",
+      "subcategories": [
+        {"name": "实在论语言观", "description": "探讨语言如何描述独立的现实"},
+        {"name": "反实在论语言观", "description": "研究语言如何构建现实"},
+        {"name": "自然语言形而上学", "description": "从语言结构推导形而上学结论"},
+        {"name": "科学语言哲学", "description": "分析科学术语与理论的语言特性"},
+        {"name": "特殊领域语言", "description": "研究艺术、宗教等特殊领域的语言"}
+      ]
+    },
+    {
+      "name": "语言多样性",
+      "subcategories": [
+        {"name": "跨语言比较", "description": "比较不同语言的哲学特性"},
+        {"name": "翻译理论", "description": "探讨不同语言间意义转换的问题"},
+        {"name": "语言相对论", "description": "研究语言对认知和世界观的影响"},
+        {"name": "普遍语法研究", "description": "探索所有语言共有的深层结构"},
+        {"name": "语言演化理论", "description": "研究语言的历史发展与演变"}
+      ]
+    }
+  ]
+} 

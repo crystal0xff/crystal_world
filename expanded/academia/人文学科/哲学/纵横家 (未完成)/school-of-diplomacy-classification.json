@@ -1,0 +1,86 @@
+{
+  "name": "纵横家哲学",
+  "description": "研究战国时期政治外交与联盟策略的哲学思想流派",
+  "quaternaryCategories": [
+    {
+      "name": "纵横家经典研究",
+      "subcategories": [
+        {"name": "《战国策》研究", "description": "研究《战国策》中记载的纵横家言行与思想"},
+        {"name": "苏秦思想研究", "description": "探讨纵横家代表人物苏秦的政治外交思想"},
+        {"name": "张仪思想研究", "description": "分析纵横家代表人物张仪的联盟策略思想"},
+        {"name": "鬼谷子学派研究", "description": "研究纵横家思想来源与师承关系"},
+        {"name": "纵横家文献整理与考辨", "description": "整理和考证纵横家相关的历史文献资料"}
+      ]
+    },
+    {
+      "name": "外交思想",
+      "subcategories": [
+        {"name": "合纵连横理论", "description": "研究纵横家关于国家联盟的基本理论"},
+        {"name": "均势外交思想", "description": "探讨纵横家平衡列国力量的外交策略"},
+        {"name": "联盟变通论", "description": "分析纵横家对外交联盟灵活变通的思想"},
+        {"name": "国际关系观", "description": "研究纵横家对战国时期国际格局的理解"},
+        {"name": "外交利益论", "description": "探讨纵横家关于国家利益的外交思想"}
+      ]
+    },
+    {
+      "name": "政治策略思想",
+      "subcategories": [
+        {"name": "权变策略论", "description": "研究纵横家灵活应变的政治策略思想"},
+        {"name": "势力平衡论", "description": "探讨纵横家关于政治势力平衡的理论"},
+        {"name": "权力博弈思想", "description": "分析纵横家对政治权力争夺的策略思考"},
+        {"name": "政治说服术", "description": "研究纵横家在政治领域的说服技巧"},
+        {"name": "权谋理论", "description": "探讨纵横家的政治权谋与策略方法"}
+      ]
+    },
+    {
+      "name": "辩说与谈判艺术",
+      "subcategories": [
+        {"name": "辩说修辞学", "description": "研究纵横家的语言表达与修辞技巧"},
+        {"name": "谈判策略", "description": "探讨纵横家在外交谈判中的策略方法"},
+        {"name": "心理操控术", "description": "分析纵横家运用心理因素影响对方的技巧"},
+        {"name": "论辩技术", "description": "研究纵横家在政治论辩中的方法与艺术"},
+        {"name": "说辞构建法", "description": "探讨纵横家如何构建有效说辞的方法"}
+      ]
+    },
+    {
+      "name": "人性与权术思想",
+      "subcategories": [
+        {"name": "人性利己论", "description": "研究纵横家对人性自利本质的理解"},
+        {"name": "权术心理学", "description": "探讨纵横家对人心与权术关系的分析"},
+        {"name": "君王心理把握", "description": "分析纵横家对统治者心理特点的把握"},
+        {"name": "利益驱动理论", "description": "研究纵横家关于利益驱动人行为的理论"},
+        {"name": "权术伦理观", "description": "探讨纵横家对权术运用的伦理限度思考"}
+      ]
+    },
+    {
+      "name": "处世哲学",
+      "subcategories": [
+        {"name": "适应变化思想", "description": "研究纵横家关于适应环境变化的处世哲学"},
+        {"name": "隐忍进退之道", "description": "探讨纵横家的隐忍与进退智慧"},
+        {"name": "机会把握术", "description": "分析纵横家把握时机的处世智慧"},
+        {"name": "危机应对策略", "description": "研究纵横家应对政治危机的方法"},
+        {"name": "自我保全智慧", "description": "探讨纵横家在复杂环境中的自我保全之道"}
+      ]
+    },
+    {
+      "name": "比较研究",
+      "subcategories": [
+        {"name": "纵横家与儒家比较", "description": "比较纵横家与儒家在政治理念上的异同"},
+        {"name": "纵横家与法家比较", "description": "探讨纵横家与法家在治国方略上的差异"},
+        {"name": "纵横家与兵家比较", "description": "研究纵横家与兵家在策略思想上的联系"},
+        {"name": "纵横术与西方外交术比较", "description": "比较中国纵横术与西方外交理论的异同"},
+        {"name": "古今外交策略比较", "description": "探讨纵横家思想与现代外交理论的关联"}
+      ]
+    },
+    {
+      "name": "现代价值研究",
+      "subcategories": [
+        {"name": "纵横思想与现代外交", "description": "研究纵横家思想对现代国际关系的启示"},
+        {"name": "纵横术与商业谈判", "description": "探讨纵横家谈判技巧在现代商业中的应用"},
+        {"name": "纵横术与公共关系", "description": "分析纵横家思想对现代公共关系的借鉴价值"},
+        {"name": "纵横思想与政治博弈", "description": "研究纵横家策略在现代政治博弈中的应用"},
+        {"name": "纵横智慧的当代解读", "description": "探讨纵横家处世哲学的当代价值"}
+      ]
+    }
+  ]
+} 

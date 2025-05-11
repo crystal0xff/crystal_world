@@ -1,0 +1,86 @@
+{
+  "name": "存在主义",
+  "description": "强调个体存在、自由选择和主体性的哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "核心存在概念",
+      "subcategories": [
+        {"name": "存在先于本质", "description": "探讨人类没有预设本质而通过选择定义自我"},
+        {"name": "境况性", "description": "研究人类始终处于特定境况中的存在状态"},
+        {"name": "此在分析", "description": "分析人的存在方式及其与世界的关系"},
+        {"name": "超越性", "description": "探讨人类超越当下状态的能力"},
+        {"name": "存在焦虑", "description": "研究面对自由和死亡时的存在性焦虑"}
+      ]
+    },
+    {
+      "name": "自由与责任",
+      "subcategories": [
+        {"name": "选择理论", "description": "探讨选择作为人类存在的核心特征"},
+        {"name": "责任伦理", "description": "研究选择带来的不可逃避的责任"},
+        {"name": "境遇中的自由", "description": "分析在限制条件下的自由可能性"},
+        {"name": "真实性要求", "description": "探讨做出真实选择而非随众的责任"},
+        {"name": "自由焦虑", "description": "研究面对无限可能性的焦虑状态"}
+      ]
+    },
+    {
+      "name": "死亡与有限性",
+      "subcategories": [
+        {"name": "向死而生", "description": "探讨死亡意识对于真实生活的意义"},
+        {"name": "时间有限性", "description": "研究人类存在时间性的哲学意义"},
+        {"name": "死亡超越论", "description": "分析死亡作为终极可能性的超越意义"},
+        {"name": "死亡与意义危机", "description": "探讨死亡导致的意义问题"},
+        {"name": "有限性体验", "description": "研究对有限性的体验及其后果"}
+      ]
+    },
+    {
+      "name": "荒谬与虚无",
+      "subcategories": [
+        {"name": "荒谬概念", "description": "探讨人寻求意义与世界沉默之间的张力"},
+        {"name": "价值虚无主义", "description": "研究客观价值丧失的哲学状况"},
+        {"name": "荒谬对抗", "description": "分析面对荒谬的不同反应方式"},
+        {"name": "存在性绝望", "description": "探讨意义缺失导致的存在性绝望"},
+        {"name": "反抗的哲学", "description": "研究通过反抗应对荒谬的可能性"}
+      ]
+    },
+    {
+      "name": "真实性理论",
+      "subcategories": [
+        {"name": "本真存在", "description": "探讨真实面对自身存在的生活方式"},
+        {"name": "非本真存在", "description": "研究沉沦于日常琐事和随众的生活"},
+        {"name": "自我欺骗分析", "description": "分析人类逃避真相的心理机制"},
+        {"name": "自我创造", "description": "探讨通过选择和行动创造自我的过程"},
+        {"name": "真实性标准", "description": "研究判断生活真实性的哲学标准"}
+      ]
+    },
+    {
+      "name": "他者与主体间性",
+      "subcategories": [
+        {"name": "他者目光", "description": "探讨他人目光对自我意识的影响"},
+        {"name": "主体间冲突", "description": "研究自由主体之间的根本冲突"},
+        {"name": "相互承认", "description": "分析主体间相互承认的存在意义"},
+        {"name": "爱的存在论", "description": "探讨爱作为特殊主体间关系的本质"},
+        {"name": "社会存在", "description": "研究社会关系中的存在主义问题"}
+      ]
+    },
+    {
+      "name": "存在主义传统",
+      "subcategories": [
+        {"name": "宗教存在主义", "description": "研究有神论存在主义哲学传统"},
+        {"name": "无神论存在主义", "description": "探讨否认神存在的存在主义思想"},
+        {"name": "现象学存在主义", "description": "分析结合现象学方法的存在主义"},
+        {"name": "马克思主义存在主义", "description": "研究融合马克思主义的存在主义"},
+        {"name": "存在主义心理学", "description": "探讨应用存在主义于心理学的传统"}
+      ]
+    },
+    {
+      "name": "存在主义美学",
+      "subcategories": [
+        {"name": "文学表达", "description": "研究存在主义文学的特点和价值"},
+        {"name": "荒诞剧场", "description": "分析表达荒谬体验的戏剧形式"},
+        {"name": "存在主义艺术", "description": "探讨体现存在主义关切的艺术创作"},
+        {"name": "创造性行为", "description": "研究艺术创作作为存在主义行为的意义"},
+        {"name": "美学体验的存在性", "description": "分析审美体验的存在主义维度"}
+      ]
+    }
+  ]
+} 

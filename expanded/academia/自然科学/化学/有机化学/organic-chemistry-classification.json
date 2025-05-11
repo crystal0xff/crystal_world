@@ -1,0 +1,86 @@
+{
+  "name": "有机化学",
+  "description": "研究含碳化合物结构、性质、合成和反应的化学分支",
+  "quaternaryCategories": [
+    {
+      "name": "脂肪族化学",
+      "subcategories": [
+        {"name": "烷烃化学", "description": "研究单键饱和碳氢化合物"},
+        {"name": "烯烃化学", "description": "研究含碳碳双键的不饱和化合物"},
+        {"name": "炔烃化学", "description": "研究含碳碳三键的不饱和化合物"},
+        {"name": "环烷烃化学", "description": "研究环状饱和碳氢化合物"},
+        {"name": "脂肪族官能团化学", "description": "研究脂肪族化合物中各类官能团"}
+      ]
+    },
+    {
+      "name": "芳香族化学",
+      "subcategories": [
+        {"name": "苯系化学", "description": "研究苯及其衍生物"},
+        {"name": "稠环芳烃", "description": "研究多环芳香族化合物"},
+        {"name": "杂环芳烃", "description": "研究含非碳原子的芳香族环系"},
+        {"name": "芳香族取代反应", "description": "研究芳香族化合物的取代反应机理"},
+        {"name": "芳香族官能团化学", "description": "研究芳香族化合物中各类官能团"}
+      ]
+    },
+    {
+      "name": "有机合成化学",
+      "subcategories": [
+        {"name": "反应设计", "description": "设计合成路线和反应条件"},
+        {"name": "全合成", "description": "复杂天然产物的完整合成"},
+        {"name": "合成方法学", "description": "发展新的有机合成方法"},
+        {"name": "绿色合成", "description": "环保、高效的合成方法研究"},
+        {"name": "不对称合成", "description": "立体选择性合成方法研究"}
+      ]
+    },
+    {
+      "name": "生物有机化学",
+      "subcategories": [
+        {"name": "糖类化学", "description": "研究碳水化合物的结构与性质"},
+        {"name": "氨基酸和蛋白质化学", "description": "研究氨基酸和蛋白质的化学性质"},
+        {"name": "核酸化学", "description": "研究DNA和RNA的化学特性"},
+        {"name": "脂质化学", "description": "研究脂类化合物的结构与功能"},
+        {"name": "酶催化反应", "description": "研究酶在有机反应中的应用"}
+      ]
+    },
+    {
+      "name": "物理有机化学",
+      "subcategories": [
+        {"name": "反应机理", "description": "研究有机反应的详细过程"},
+        {"name": "动力学研究", "description": "研究反应速率和影响因素"},
+        {"name": "热力学分析", "description": "研究反应的能量变化"},
+        {"name": "结构-性能关系", "description": "研究分子结构与化学性质的关系"},
+        {"name": "同位素效应", "description": "研究同位素替换对反应的影响"}
+      ]
+    },
+    {
+      "name": "有机金属化学",
+      "subcategories": [
+        {"name": "有机锂化合物", "description": "研究含锂有机化合物"},
+        {"name": "有机镁化合物", "description": "研究格氏试剂等有机镁化合物"},
+        {"name": "有机过渡金属化合物", "description": "研究含过渡金属的有机化合物"},
+        {"name": "金属催化反应", "description": "研究金属催化的有机反应"},
+        {"name": "金属有机框架", "description": "研究金属-有机分子形成的网络结构"}
+      ]
+    },
+    {
+      "name": "天然产物化学",
+      "subcategories": [
+        {"name": "生物碱化学", "description": "研究含氮天然有机化合物"},
+        {"name": "萜类化学", "description": "研究由异戊二烯单元构成的化合物"},
+        {"name": "甾体化学", "description": "研究甾体骨架化合物"},
+        {"name": "多酚化学", "description": "研究植物多酚类化合物"},
+        {"name": "海洋天然产物", "description": "研究海洋生物中的特殊化合物"}
+      ]
+    },
+    {
+      "name": "分析有机化学",
+      "subcategories": [
+        {"name": "有机结构鉴定", "description": "研究有机化合物结构确定方法"},
+        {"name": "光谱分析法", "description": "应用各种光谱技术分析有机物"},
+        {"name": "色谱分离技术", "description": "研究有机混合物的分离方法"},
+        {"name": "质谱分析", "description": "应用质谱技术分析有机化合物"},
+        {"name": "有机微量分析", "description": "研究微量有机物的检测方法"}
+      ]
+    }
+  ]
+} 

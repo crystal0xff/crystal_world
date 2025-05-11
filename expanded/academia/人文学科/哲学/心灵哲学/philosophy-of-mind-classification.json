@@ -1,0 +1,86 @@
+{
+  "name": "心灵哲学",
+  "description": "研究心灵本质、意识经验及心灵与物质关系的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "心身问题",
+      "subcategories": [
+        {"name": "二元论", "description": "将心灵与身体视为两种不同实体的理论"},
+        {"name": "物理主义", "description": "认为心灵状态可还原为物理状态的立场"},
+        {"name": "属性二元论", "description": "承认单一实体但区分心灵与物理属性的理论"},
+        {"name": "非还原物理主义", "description": "认为心灵依赖但不可还原为物理的观点"},
+        {"name": "泛心论", "description": "认为意识或心智特性遍布宇宙的理论"}
+      ]
+    },
+    {
+      "name": "意识研究",
+      "subcategories": [
+        {"name": "意识本质理论", "description": "探讨意识的基本性质与定义"},
+        {"name": "现象意识分析", "description": "研究主观体验的现象学特征"},
+        {"name": "意识与大脑关系", "description": "探索意识与神经活动的关联"},
+        {"name": "意识困难问题", "description": "探讨为何物理过程产生主观体验的难题"},
+        {"name": "意识状态类型学", "description": "研究不同类型意识状态的分类"}
+      ]
+    },
+    {
+      "name": "思维哲学",
+      "subcategories": [
+        {"name": "思维本质理论", "description": "探讨思维的本质与基本特征"},
+        {"name": "信念态度研究", "description": "分析信念等命题态度的性质"},
+        {"name": "心理内容理论", "description": "研究心理状态的内容与表征"},
+        {"name": "概念与分类研究", "description": "探讨概念形成与分类的认知过程"},
+        {"name": "思维与语言关系", "description": "研究思维与语言之间的联系"}
+      ]
+    },
+    {
+      "name": "自我与人格",
+      "subcategories": [
+        {"name": "自我理论", "description": "探讨自我的本质与构成要素"},
+        {"name": "人格同一性问题", "description": "研究人在不同时间保持同一性的条件"},
+        {"name": "自我意识研究", "description": "分析自我意识的结构与发展"},
+        {"name": "人格形而上学", "description": "探讨人格存在的形而上学基础"},
+        {"name": "自我知识理论", "description": "研究自我认知的特殊性与局限"}
+      ]
+    },
+    {
+      "name": "行动理论",
+      "subcategories": [
+        {"name": "意向性行动研究", "description": "探讨有意识行动的本质与结构"},
+        {"name": "行动因果理论", "description": "分析心理状态如何导致行动"},
+        {"name": "自由意志问题", "description": "研究人类行动自由决定的可能性"},
+        {"name": "行动理性标准", "description": "探讨判断行动理性的标准"},
+        {"name": "无意识行为研究", "description": "分析不受意识控制的行为现象"}
+      ]
+    },
+    {
+      "name": "心理哲学方法论",
+      "subcategories": [
+        {"name": "内省法分析", "description": "评估内省作为研究心灵的方法"},
+        {"name": "行为主义方法", "description": "探讨通过行为研究心灵的方法"},
+        {"name": "功能主义分析", "description": "从功能角度研究心理状态的方法"},
+        {"name": "神经科学还原论", "description": "通过神经科学解释心理现象的方法"},
+        {"name": "解释学方法", "description": "基于理解和诠释研究心灵的方法"}
+      ]
+    },
+    {
+      "name": "比较心灵哲学",
+      "subcategories": [
+        {"name": "动物心智研究", "description": "探讨非人类动物的心智能力"},
+        {"name": "人工智能哲学", "description": "研究人工系统的心智可能性问题"},
+        {"name": "集体心智理论", "description": "探讨群体是否具有心智特性"},
+        {"name": "心灵扩展理论", "description": "研究心灵边界延伸至身体外的可能性"},
+        {"name": "异常心理状态", "description": "分析非典型心理状态的哲学意义"}
+      ]
+    },
+    {
+      "name": "应用心灵哲学",
+      "subcategories": [
+        {"name": "精神医学哲学", "description": "探讨精神疾病的本体论与认识论问题"},
+        {"name": "神经伦理学", "description": "研究神经科学实践中的伦理问题"},
+        {"name": "意识改变技术", "description": "分析改变意识状态技术的哲学问题"},
+        {"name": "认知增强伦理", "description": "探讨认知增强技术的伦理与社会影响"},
+        {"name": "心灵发展哲学", "description": "研究心智能力发展的哲学问题"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "伦理学",
+  "description": "研究道德原则、价值判断和人类行为规范的哲学分支",
+  "quaternaryCategories": [
+    {
+      "name": "规范伦理学",
+      "subcategories": [
+        {"name": "功利主义", "description": "以行为后果的效用最大化为道德评判标准"},
+        {"name": "义务论", "description": "关注行为是否符合道德义务和规则"},
+        {"name": "德性伦理学", "description": "强调品格和德性培养的道德理论"},
+        {"name": "契约论", "description": "通过社会契约建立道德规范的理论"},
+        {"name": "关怀伦理学", "description": "以关怀和人际关系为核心的伦理学"}
+      ]
+    },
+    {
+      "name": "元伦理学",
+      "subcategories": [
+        {"name": "道德认知主义", "description": "认为道德判断具有认知内容可被真假评价"},
+        {"name": "道德非认知主义", "description": "认为道德判断不具有真假性只表达态度"},
+        {"name": "道德实在论", "description": "主张客观道德事实的存在"},
+        {"name": "道德相对主义", "description": "认为道德标准相对于文化和个人而变化"},
+        {"name": "道德虚无主义", "description": "否认客观道德事实和道德知识的存在"}
+      ]
+    },
+    {
+      "name": "应用伦理学",
+      "subcategories": [
+        {"name": "生命伦理学", "description": "研究医学和生命科学中的伦理问题"},
+        {"name": "环境伦理学", "description": "研究人与自然环境之间的道德关系"},
+        {"name": "商业伦理学", "description": "研究商业实践中的道德问题和责任"},
+        {"name": "科技伦理学", "description": "探讨科技发展带来的伦理挑战"},
+        {"name": "专业伦理学", "description": "研究特定专业领域的道德规范"}
+      ]
+    },
+    {
+      "name": "描述伦理学",
+      "subcategories": [
+        {"name": "道德心理学", "description": "研究道德判断和道德行为的心理机制"},
+        {"name": "道德发展理论", "description": "研究个体道德意识和能力的发展过程"},
+        {"name": "进化伦理学", "description": "从进化角度研究道德观念的起源和发展"},
+        {"name": "文化道德比较", "description": "比较不同文化中的道德观念和实践"},
+        {"name": "道德情绪研究", "description": "研究情绪在道德判断和行为中的作用"}
+      ]
+    },
+    {
+      "name": "中国传统伦理",
+      "subcategories": [
+        {"name": "儒家伦理", "description": "以仁义礼智信和五伦为核心的伦理体系"},
+        {"name": "道家伦理", "description": "强调自然无为和清静无欲的伦理思想"},
+        {"name": "墨家伦理", "description": "倡导兼爱非攻和节用的伦理观念"},
+        {"name": "法家伦理", "description": "以法制和功利为基础的道德政治观"},
+        {"name": "佛家伦理", "description": "基于慈悲和解脱的道德观念"}
+      ]
+    },
+    {
+      "name": "西方伦理传统",
+      "subcategories": [
+        {"name": "古希腊伦理", "description": "以美德和幸福为中心的伦理思想"},
+        {"name": "基督教伦理", "description": "基于信仰、爱和神圣命令的道德体系"},
+        {"name": "康德伦理学", "description": "以绝对命令和尊重人的尊严为核心的道德理论"},
+        {"name": "实用主义伦理", "description": "强调行动和经验的道德理论"},
+        {"name": "存在主义伦理", "description": "关注个体选择和真实性的道德观念"}
+      ]
+    },
+    {
+      "name": "特殊伦理议题",
+      "subcategories": [
+        {"name": "正义理论", "description": "研究社会公平和资源分配的道德原则"},
+        {"name": "权利伦理学", "description": "探讨道德权利的性质和基础"},
+        {"name": "动物伦理学", "description": "研究人与非人类动物的道德关系"},
+        {"name": "战争伦理学", "description": "探讨战争中的道德判断和限制"},
+        {"name": "未来伦理学", "description": "考虑对未来世代的道德责任和义务"}
+      ]
+    },
+    {
+      "name": "伦理方法论",
+      "subcategories": [
+        {"name": "道德推理", "description": "研究道德判断和结论的逻辑推导过程"},
+        {"name": "反思平衡法", "description": "通过反思调整道德直觉和原则的方法"},
+        {"name": "道德思想实验", "description": "使用假设情境探索道德问题的方法"},
+        {"name": "伦理案例分析", "description": "通过具体案例研究伦理问题的方法"},
+        {"name": "伦理解释主义", "description": "解释和理解道德实践和观念的方法"}
+      ]
+    }
+  ]
+} 

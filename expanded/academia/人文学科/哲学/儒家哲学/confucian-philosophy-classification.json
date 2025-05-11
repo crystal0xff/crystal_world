@@ -1,0 +1,86 @@
+{
+  "name": "儒家哲学",
+  "description": "以仁、义、礼、智、信为核心价值的中国传统哲学体系",
+  "quaternaryCategories": [
+    {
+      "name": "原典儒学",
+      "subcategories": [
+        {"name": "孔子思想研究", "description": "研究孔子的哲学思想和言论"},
+        {"name": "孟子性善论", "description": "探讨孟子人性本善的哲学主张"},
+        {"name": "荀子性恶论", "description": "分析荀子人性本恶的哲学思想"},
+        {"name": "《论语》诠释", "description": "研究《论语》的文本和思想内容"},
+        {"name": "《大学》《中庸》哲学", "description": "探讨儒家经典中的修身与中和思想"}
+      ]
+    },
+    {
+      "name": "儒家形而上学",
+      "subcategories": [
+        {"name": "理气论", "description": "研究理与气的关系及其宇宙论意义"},
+        {"name": "太极论", "description": "探讨宇宙本原和变化原理的哲学"},
+        {"name": "心性论", "description": "分析心与性的本质及其关系"},
+        {"name": "天道与人道", "description": "研究天理与人伦的关系和互动"},
+        {"name": "本体论思考", "description": "探讨儒家关于存在本质的哲学思考"}
+      ]
+    },
+    {
+      "name": "儒家伦理学",
+      "subcategories": [
+        {"name": "仁学研究", "description": "探讨仁爱概念的哲学内涵与实践"},
+        {"name": "五伦理论", "description": "研究君臣、父子、夫妇、兄弟、朋友关系伦理"},
+        {"name": "义利之辨", "description": "分析道义与利益关系的儒家观点"},
+        {"name": "中庸之道", "description": "探讨适度平衡的伦理实践理念"},
+        {"name": "诚信哲学", "description": "研究诚实守信的儒家道德观念"}
+      ]
+    },
+    {
+      "name": "儒家政治哲学",
+      "subcategories": [
+        {"name": "王道政治", "description": "研究仁政与德治的政治理念"},
+        {"name": "礼治思想", "description": "探讨以礼制为基础的社会秩序观"},
+        {"name": "大同理想", "description": "分析儒家理想社会的政治构想"},
+        {"name": "君子人格论", "description": "研究儒家理想政治人格的塑造"},
+        {"name": "民本思想", "description": "探讨以民为本的儒家政治观念"}
+      ]
+    },
+    {
+      "name": "宋明理学",
+      "subcategories": [
+        {"name": "程朱理学", "description": "研究程颢、程颐、朱熹的理学思想"},
+        {"name": "陆王心学", "description": "探讨陆九渊、王阳明的心学理论"},
+        {"name": "气学思想", "description": "分析张载等人的气本论哲学"},
+        {"name": "知行关系", "description": "研究知与行统一问题的不同观点"},
+        {"name": "理欲之辨", "description": "探讨理性与欲望关系的哲学思考"}
+      ]
+    },
+    {
+      "name": "儒家教育思想",
+      "subcategories": [
+        {"name": "修身养性", "description": "研究个人道德修养的理论与方法"},
+        {"name": "格物致知", "description": "探讨知识获取与道德培养的关系"},
+        {"name": "因材施教", "description": "分析根据个体差异调整教育方法的思想"},
+        {"name": "礼乐教化", "description": "研究通过礼仪和音乐实现社会教化"},
+        {"name": "经典诵读", "description": "探讨通过经典学习获得智慧的教育方式"}
+      ]
+    },
+    {
+      "name": "儒家心性修养",
+      "subcategories": [
+        {"name": "敬畏存养", "description": "研究通过敬畏心态修养品格的方法"},
+        {"name": "慎独工夫", "description": "探讨独处时的自律与修养"},
+        {"name": "克己复礼", "description": "分析克制私欲回归礼义的修养方法"},
+        {"name": "诚意正心", "description": "研究端正内心意念的修养工夫"},
+        {"name": "主静涵养", "description": "探讨通过心灵宁静培养品格的方法"}
+      ]
+    },
+    {
+      "name": "现代新儒学",
+      "subcategories": [
+        {"name": "港台新儒家", "description": "研究现代港台地区儒家思想的发展"},
+        {"name": "海外儒学", "description": "探讨海外学者对儒学的研究与创新"},
+        {"name": "儒学现代转化", "description": "分析儒家思想在现代语境中的转化"},
+        {"name": "儒家与西方哲学对话", "description": "研究儒学与西方哲学传统的交流"},
+        {"name": "儒家伦理与现代社会", "description": "探讨儒家伦理在现代社会的适用性"}
+      ]
+    }
+  ]
+} 

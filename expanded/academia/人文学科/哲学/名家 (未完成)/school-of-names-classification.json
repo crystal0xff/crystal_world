@@ -1,0 +1,76 @@
+{
+  "name": "名家哲学",
+  "description": "专注于名实关系、语言逻辑及辩论术的先秦哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "名家经典研究",
+      "subcategories": [
+        {"name": "《公孙龙子》研究", "description": "研究公孙龙哲学著作的文本与思想"},
+        {"name": "惠施十事研究", "description": "探讨惠施逻辑思想的代表性命题"},
+        {"name": "名家文献考辨", "description": "考证名家著作的真伪与历史演变"},
+        {"name": "名家文献整理", "description": "整理与校勘名家文献资料"},
+        {"name": "《庄子·齐物论》中的名家思想", "description": "研究庄子著作中记载的名家观点"}
+      ]
+    },
+    {
+      "name": "名实理论",
+      "subcategories": [
+        {"name": "名实关系论", "description": "研究名家对名称与实在关系的理解"},
+        {"name": "正名思想", "description": "探讨名家对概念规范与语义精确性的追求"},
+        {"name": "离坚白论", "description": "分析公孙龙'坚白石'思想实验的哲学含义"},
+        {"name": "指物理论", "description": "研究名家关于语言如何指称外部世界的理论"},
+        {"name": "共名与殊名", "description": "探讨普遍概念与特殊概念的区分问题"}
+      ]
+    },
+    {
+      "name": "逻辑思维",
+      "subcategories": [
+        {"name": "辩证逻辑", "description": "研究名家运用矛盾分析的逻辑方法"},
+        {"name": "悖论研究", "description": "探讨白马非马等名家悖论的逻辑结构"},
+        {"name": "分类思想", "description": "分析名家对概念分类与划分的理论"},
+        {"name": "逻辑推理方法", "description": "研究名家的推理形式与论证技巧"},
+        {"name": "辩论方法论", "description": "探讨名家辩论术的系统方法与原则"}
+      ]
+    },
+    {
+      "name": "语言哲学",
+      "subcategories": [
+        {"name": "语义分析", "description": "研究名家对词义与语句意义的分析"},
+        {"name": "语言与思维", "description": "探讨名家对语言与思维关系的理解"},
+        {"name": "语言局限性", "description": "分析名家对语言表达局限性的认识"},
+        {"name": "语言与辩论", "description": "研究语言在名家辩论中的运用与功能"},
+        {"name": "命题理论", "description": "探讨名家对命题结构与真假的思考"}
+      ]
+    },
+    {
+      "name": "认识论研究",
+      "subcategories": [
+        {"name": "知识本质论", "description": "研究名家对知识本质的理解"},
+        {"name": "概念形成论", "description": "探讨名家关于概念如何形成的理论"},
+        {"name": "认知局限性", "description": "分析名家对人类认知能力限度的思考"},
+        {"name": "感知与实在", "description": "研究名家对感知经验与客观实在关系的看法"},
+        {"name": "知行关系", "description": "探讨名家对知识与行动关系的理解"}
+      ]
+    },
+    {
+      "name": "比较研究",
+      "subcategories": [
+        {"name": "名家与儒家比较", "description": "比较名家与儒家在语言观念上的异同"},
+        {"name": "名家与道家比较", "description": "探讨名家与道家对语言功能认识的差异"},
+        {"name": "名家与墨家比较", "description": "研究名家与墨家在逻辑思维方面的关联"},
+        {"name": "名家与西方诡辩派比较", "description": "比较中国名家与古希腊诡辩派的思想"},
+        {"name": "名家与现代分析哲学比较", "description": "探讨名家与现代分析哲学的思想联系"}
+      ]
+    },
+    {
+      "name": "历史影响研究",
+      "subcategories": [
+        {"name": "对汉代经学的影响", "description": "研究名家对汉代经学发展的影响"},
+        {"name": "对中国逻辑史的贡献", "description": "探讨名家在中国逻辑发展史上的地位"},
+        {"name": "对魏晋玄学的影响", "description": "分析名家思想对魏晋玄学的影响"},
+        {"name": "名家思想的现代复兴", "description": "研究现代学界对名家思想的重新评价"},
+        {"name": "名家辩术的实践应用", "description": "探讨名家辩论方法在当代的应用价值"}
+      ]
+    }
+  ]
+} 

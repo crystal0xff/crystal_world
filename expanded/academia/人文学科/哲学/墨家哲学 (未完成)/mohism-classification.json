@@ -1,0 +1,86 @@
+{
+  "name": "墨家哲学",
+  "description": "强调兼爱、非攻、尚贤、节用和天志的中国古代哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "墨家经典研究",
+      "subcategories": [
+        {"name": "《墨子》文本研究", "description": "研究《墨子》文本的结构与内容"},
+        {"name": "《墨经》诠释", "description": "探讨墨家经典中逻辑与科学思想"},
+        {"name": "《墨辩》解析", "description": "分析墨家辩证思想与逻辑方法"},
+        {"name": "墨家著作真伪考", "description": "考证墨家著作的真伪与成书年代"},
+        {"name": "墨家文献传承史", "description": "研究墨家典籍的传承与演变历程"}
+      ]
+    },
+    {
+      "name": "兼爱思想",
+      "subcategories": [
+        {"name": "兼爱本质研究", "description": "探讨墨家兼爱思想的哲学内涵"},
+        {"name": "兼爱与等爱辨析", "description": "分析墨家爱无差等还是有差等的问题"},
+        {"name": "兼爱的社会基础", "description": "研究墨家兼爱思想的社会历史背景"},
+        {"name": "兼爱与儒家仁爱比较", "description": "比较墨家兼爱与儒家仁爱的异同"},
+        {"name": "兼爱的现代价值", "description": "探讨墨家兼爱思想的现代意义"}
+      ]
+    },
+    {
+      "name": "非攻理论",
+      "subcategories": [
+        {"name": "非攻思想本质", "description": "研究墨家反对侵略战争的核心理念"},
+        {"name": "义战与非义战", "description": "探讨墨家对正义战争与非正义战争的区分"},
+        {"name": "非攻的经济基础", "description": "分析墨家非攻思想的经济理性考量"},
+        {"name": "防御思想研究", "description": "研究墨家防御性军事思想与实践"},
+        {"name": "和平理念探析", "description": "探讨墨家非攻思想中的和平理念"}
+      ]
+    },
+    {
+      "name": "尚贤理论",
+      "subcategories": [
+        {"name": "尚贤政治思想", "description": "研究墨家举贤任能的政治主张"},
+        {"name": "尚贤与选举制度", "description": "探讨墨家尚贤思想与选举制度的关系"},
+        {"name": "贤能标准研究", "description": "分析墨家对贤能标准的界定"},
+        {"name": "尚贤与社会流动", "description": "研究墨家尚贤思想对社会阶层流动的影响"},
+        {"name": "尚贤与儒家贵族制比较", "description": "比较墨家尚贤与儒家贵族制的差异"}
+      ]
+    },
+    {
+      "name": "节用思想",
+      "subcategories": [
+        {"name": "节用经济观", "description": "研究墨家节约资源的经济思想"},
+        {"name": "厚葬非议", "description": "探讨墨家反对奢侈丧葬的主张"},
+        {"name": "反对音乐理论", "description": "分析墨家反对奢侈音乐活动的观点"},
+        {"name": "利用厚生", "description": "研究墨家增加社会效用的经济理念"},
+        {"name": "节用与可持续发展", "description": "探讨墨家节用思想的现代可持续意义"}
+      ]
+    },
+    {
+      "name": "天志理论",
+      "subcategories": [
+        {"name": "天志本体论", "description": "研究墨家天志概念的本体论意义"},
+        {"name": "天志与伦理学", "description": "探讨天志在墨家伦理体系中的地位"},
+        {"name": "明鬼非鬼辨析", "description": "分析墨家鬼神观念与功利主义的关系"},
+        {"name": "天志与命运观", "description": "研究墨家对天命与人为关系的理解"},
+        {"name": "宗教性解读", "description": "探讨墨家天志思想的宗教维度"}
+      ]
+    },
+    {
+      "name": "墨家知识论",
+      "subcategories": [
+        {"name": "三表法", "description": "研究墨家验证知识的三重标准"},
+        {"name": "概念思维", "description": "探讨墨家对概念形成与定义的思考"},
+        {"name": "名实关系", "description": "分析墨家对名称与实在关系的理解"},
+        {"name": "墨辩逻辑", "description": "研究墨家逻辑推理与论辩方法"},
+        {"name": "经验主义倾向", "description": "探讨墨家知识论中的经验主义特征"}
+      ]
+    },
+    {
+      "name": "墨家科技思想",
+      "subcategories": [
+        {"name": "几何学研究", "description": "研究墨家几何学知识与应用"},
+        {"name": "光学理论", "description": "探讨墨家对光学现象的理解与解释"},
+        {"name": "力学思想", "description": "分析墨家力学理论与工程应用"},
+        {"name": "墨家工程技术", "description": "研究墨家在防御工事等方面的技术贡献"},
+        {"name": "科学方法论", "description": "探讨墨家实证与实用的科学方法"}
+      ]
+    }
+  ]
+} 

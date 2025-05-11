@@ -1,0 +1,86 @@
+{
+  "name": "逻辑学",
+  "description": "研究有效推理、论证形式和思维规律的学问",
+  "quaternaryCategories": [
+    {
+      "name": "形式逻辑",
+      "subcategories": [
+        {"name": "命题逻辑", "description": "研究复合命题之间的逻辑关系与推理"},
+        {"name": "谓词逻辑", "description": "研究命题内部结构与量化表达的逻辑"},
+        {"name": "模态逻辑", "description": "研究必然性、可能性等模态概念的逻辑"},
+        {"name": "时态逻辑", "description": "研究涉及时间关系的命题逻辑"},
+        {"name": "多值逻辑", "description": "研究超越真假二值的多值真值系统"}
+      ]
+    },
+    {
+      "name": "数理逻辑",
+      "subcategories": [
+        {"name": "集合论", "description": "研究集合概念及其性质的数学分支"},
+        {"name": "递归论", "description": "研究可计算性和算法效率的理论"},
+        {"name": "证明论", "description": "研究形式系统中证明的结构和特性"},
+        {"name": "模型论", "description": "研究逻辑形式与其解释之间的关系"},
+        {"name": "公理集合论", "description": "通过公理系统研究集合的基础理论"}
+      ]
+    },
+    {
+      "name": "哲学逻辑",
+      "subcategories": [
+        {"name": "逻辑本体论", "description": "研究逻辑对象的本质和存在状态"},
+        {"name": "逻辑认识论", "description": "探讨逻辑知识的本质和来源"},
+        {"name": "悖论研究", "description": "研究逻辑悖论的性质和解决方案"},
+        {"name": "真理理论", "description": "探讨真理的本质和判定标准"},
+        {"name": "逻辑哲学史", "description": "研究逻辑思想在哲学史上的发展"}
+      ]
+    },
+    {
+      "name": "非经典逻辑",
+      "subcategories": [
+        {"name": "直觉主义逻辑", "description": "拒绝排中律的构造性推理系统"},
+        {"name": "模糊逻辑", "description": "处理不精确和近似推理的逻辑体系"},
+        {"name": "相关逻辑", "description": "要求前提与结论相关性的逻辑体系"},
+        {"name": "释疑逻辑", "description": "处理信念修正和变化的逻辑"},
+        {"name": "量子逻辑", "description": "适应量子力学特性的非经典逻辑"}
+      ]
+    },
+    {
+      "name": "应用逻辑",
+      "subcategories": [
+        {"name": "计算机逻辑", "description": "应用于计算机科学的逻辑理论"},
+        {"name": "法律逻辑", "description": "研究法律推理和论证的特殊逻辑"},
+        {"name": "伦理逻辑", "description": "研究道德推理和价值判断的逻辑结构"},
+        {"name": "科学方法论", "description": "研究科学推理和假设检验的逻辑"},
+        {"name": "认知决策逻辑", "description": "研究决策过程中的逻辑结构"}
+      ]
+    },
+    {
+      "name": "论证理论",
+      "subcategories": [
+        {"name": "形式论证分析", "description": "分析论证的结构和有效性"},
+        {"name": "非形式谬误研究", "description": "研究常见的逻辑错误和谬论"},
+        {"name": "对话逻辑", "description": "研究对话和辩论中的逻辑规则"},
+        {"name": "修辞与论证", "description": "研究说服性论证中的修辞技巧"},
+        {"name": "推理评估方法", "description": "评估实际论证有效性的方法"}
+      ]
+    },
+    {
+      "name": "逻辑史",
+      "subcategories": [
+        {"name": "古代逻辑", "description": "研究古希腊、印度等古代逻辑体系"},
+        {"name": "中世纪逻辑", "description": "研究中世纪的经院派逻辑发展"},
+        {"name": "现代逻辑", "description": "研究弗雷格以来的现代逻辑发展"},
+        {"name": "东方逻辑传统", "description": "研究中国、印度等东方逻辑传统"},
+        {"name": "逻辑思想流派", "description": "研究不同逻辑学派的思想演变"}
+      ]
+    },
+    {
+      "name": "逻辑教育与方法",
+      "subcategories": [
+        {"name": "逻辑思维训练", "description": "培养逻辑思维能力的方法"},
+        {"name": "形式化证明技术", "description": "系统的逻辑证明方法训练"},
+        {"name": "逻辑问题解析", "description": "分析和解决复杂逻辑问题的方法"},
+        {"name": "批判性思维", "description": "培养评估论证和信息的批判能力"},
+        {"name": "创造性逻辑", "description": "探索逻辑思维在创新中的应用"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "现象学",
+  "description": "研究意识经验、体验结构以及事物如何在意识中呈现的哲学方法和流派",
+  "quaternaryCategories": [
+    {
+      "name": "现象学方法",
+      "subcategories": [
+        {"name": "现象学还原", "description": "悬置自然态度以揭示经验本质的方法"},
+        {"name": "本质直观", "description": "把握现象本质结构的认识方法"},
+        {"name": "构成分析", "description": "研究意识如何构成对象的现象学方法"},
+        {"name": "生活世界分析", "description": "探究前科学日常经验世界的方法"},
+        {"name": "现象学描述", "description": "对意识经验进行精确描述的方法"}
+      ]
+    },
+    {
+      "name": "意向性理论",
+      "subcategories": [
+        {"name": "意向性结构", "description": "分析意识指向对象的基本结构"},
+        {"name": "意向行为类型", "description": "研究不同类型的意向行为"},
+        {"name": "水平意向性", "description": "探讨意识边缘或背景的意向结构"},
+        {"name": "身体意向性", "description": "分析身体的预反思性指向性"},
+        {"name": "意向对象研究", "description": "探究意向对象的存在和性质"}
+      ]
+    },
+    {
+      "name": "时间意识研究",
+      "subcategories": [
+        {"name": "内时间意识", "description": "研究主观时间经验的构成"},
+        {"name": "持存-投射结构", "description": "分析意识如何保持过去和预期未来"},
+        {"name": "时间性与自我", "description": "探讨时间意识与自我同一性的关系"},
+        {"name": "历史性经验", "description": "研究历史作为体验维度的特性"},
+        {"name": "瞬间与持续研究", "description": "分析即时体验与时间延展的关系"}
+      ]
+    },
+    {
+      "name": "身体现象学",
+      "subcategories": [
+        {"name": "生活身体研究", "description": "探究作为主体的身体经验"},
+        {"name": "身体图式理论", "description": "研究身体的预反思性空间导向"},
+        {"name": "交互身体性", "description": "分析身体间的互动和理解"},
+        {"name": "身体空间性", "description": "探讨身体如何构建和体验空间"},
+        {"name": "疾病与身体经验", "description": "研究疾病状态中的身体体验"}
+      ]
+    },
+    {
+      "name": "情感现象学",
+      "subcategories": [
+        {"name": "情感意向性", "description": "研究情感如何指向世界"},
+        {"name": "情感价值揭示", "description": "探讨情感如何揭示价值维度"},
+        {"name": "心境分析", "description": "研究背景情感调性的结构"},
+        {"name": "情感共鸣理论", "description": "分析人际间情感传递和共享"},
+        {"name": "本体论情感", "description": "探究揭示存在基本结构的情感"}
+      ]
+    },
+    {
+      "name": "交互主体性",
+      "subcategories": [
+        {"name": "他者经验结构", "description": "研究对他人意识体验的构成"},
+        {"name": "类比统觉理论", "description": "分析通过类比理解他者的过程"},
+        {"name": "共同世界构成", "description": "探讨社会共享现实的建立过程"},
+        {"name": "同理心现象学", "description": "研究理解他者体验的能力"},
+        {"name": "社会行为意向性", "description": "分析社会行为中的意向结构"}
+      ]
+    },
+    {
+      "name": "存在现象学",
+      "subcategories": [
+        {"name": "此在分析", "description": "研究人类存在的基本结构"},
+        {"name": "世界内存在", "description": "探讨人作为世界参与者的存在方式"},
+        {"name": "实存范畴研究", "description": "分析人类存在的核心范畴"},
+        {"name": "境遇性理论", "description": "研究人类存在的情境性质"},
+        {"name": "本真性探究", "description": "探讨存在的真实性与非真实性"}
+      ]
+    },
+    {
+      "name": "应用现象学",
+      "subcategories": [
+        {"name": "教育现象学", "description": "应用现象学于教育体验研究"},
+        {"name": "医学现象学", "description": "探究疾病、健康和医疗的体验维度"},
+        {"name": "艺术现象学", "description": "研究审美经验和艺术创作的现象学"},
+        {"name": "宗教经验现象学", "description": "分析宗教体验的结构和本质"},
+        {"name": "环境现象学", "description": "探讨人与环境关系的体验维度"}
+      ]
+    }
+  ]
+} 

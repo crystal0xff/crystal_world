@@ -1,0 +1,86 @@
+{
+  "name": "政治哲学",
+  "description": "研究政治组织、权力、正义、自由等政治概念哲学基础的分支",
+  "quaternaryCategories": [
+    {
+      "name": "政治正当性理论",
+      "subcategories": [
+        {"name": "社会契约论", "description": "通过自愿协议为政治权威辩护的理论"},
+        {"name": "同意理论", "description": "基于公民同意为政治权威辩护的理论"},
+        {"name": "自然法理论", "description": "从自然法则推导政治正当性的传统"},
+        {"name": "功利主义论证", "description": "基于最大效用原则为政治安排辩护"},
+        {"name": "实用主义政治观", "description": "从实用角度评估政治安排的视角"}
+      ]
+    },
+    {
+      "name": "国家本质理论",
+      "subcategories": [
+        {"name": "国家起源研究", "description": "探讨国家形成的历史和逻辑基础"},
+        {"name": "国家功能理论", "description": "分析国家的核心功能和目的"},
+        {"name": "国家权力界限", "description": "研究国家权力合法边界的理论"},
+        {"name": "主权概念分析", "description": "探讨主权的本质、来源和限制"},
+        {"name": "无政府主义批判", "description": "质疑国家必要性和正当性的思想"}
+      ]
+    },
+    {
+      "name": "正义理论",
+      "subcategories": [
+        {"name": "分配正义", "description": "研究社会资源公平分配的原则"},
+        {"name": "程序正义", "description": "探讨公正决策和制度程序的标准"},
+        {"name": "全球正义", "description": "研究跨国界正义问题的理论"},
+        {"name": "代际正义", "description": "分析不同世代间的道德责任和权利"},
+        {"name": "复原正义", "description": "探讨纠正历史不公的原则和方法"}
+      ]
+    },
+    {
+      "name": "自由理论",
+      "subcategories": [
+        {"name": "消极自由", "description": "研究不受干涉的自由概念"},
+        {"name": "积极自由", "description": "探讨自我实现和自主性的自由概念"},
+        {"name": "共和自由", "description": "分析不受支配的自由理念"},
+        {"name": "自由的限度", "description": "研究自由的合理限制原则"},
+        {"name": "自由与平等关系", "description": "探讨自由与平等的张力与协调"}
+      ]
+    },
+    {
+      "name": "政治制度理论",
+      "subcategories": [
+        {"name": "民主理论", "description": "研究民主制度的原则、形式和运作"},
+        {"name": "代议制分析", "description": "探讨政治代表制的哲学基础"},
+        {"name": "分权学说", "description": "分析权力分立与制衡的理论"},
+        {"name": "宪政主义", "description": "研究宪法限制政府权力的理论"},
+        {"name": "政治制度比较", "description": "比较不同政治制度的哲学基础"}
+      ]
+    },
+    {
+      "name": "政治意识形态",
+      "subcategories": [
+        {"name": "自由主义研究", "description": "分析强调个人自由的政治思想"},
+        {"name": "保守主义理论", "description": "研究尊重传统和稳定的政治观念"},
+        {"name": "社会主义思想", "description": "探讨集体所有和平等的政治理念"},
+        {"name": "共同体主义", "description": "强调社区价值和责任的政治理论"},
+        {"name": "多元文化主义", "description": "研究文化多样性和认可的政治观"}
+      ]
+    },
+    {
+      "name": "政治哲学方法论",
+      "subcategories": [
+        {"name": "理想理论", "description": "构建理想政治原则的方法论"},
+        {"name": "非理想理论", "description": "针对现实条件制定政治原则的方法"},
+        {"name": "反思平衡法", "description": "协调原则与直觉的政治推理方法"},
+        {"name": "批判理论方法", "description": "揭示政治权力隐藏维度的方法"},
+        {"name": "解释学方法", "description": "理解政治概念和实践的诠释方法"}
+      ]
+    },
+    {
+      "name": "应用政治哲学",
+      "subcategories": [
+        {"name": "身份政治理论", "description": "研究群体认同在政治中的作用"},
+        {"name": "环境政治哲学", "description": "探讨环境保护的政治哲学问题"},
+        {"name": "技术政治哲学", "description": "分析技术发展的政治维度和影响"},
+        {"name": "移民与边界伦理", "description": "研究移民政策的道德基础"},
+        {"name": "战争与和平伦理", "description": "探讨战争正义与和平构建的原则"}
+      ]
+    }
+  ]
+} 

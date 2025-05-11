@@ -1,0 +1,86 @@
+{
+  "name": "科学哲学",
+  "description": "研究科学知识本质、方法、概念和科学实践哲学问题的分支",
+  "quaternaryCategories": [
+    {
+      "name": "科学知识论",
+      "subcategories": [
+        {"name": "科学实在论", "description": "主张科学理论描述真实世界的观点"},
+        {"name": "工具主义", "description": "将科学理论视为预测工具而非真实描述"},
+        {"name": "科学相对主义", "description": "认为科学知识相对于历史文化背景"},
+        {"name": "科学怀疑论", "description": "质疑科学知识确定性的立场"},
+        {"name": "结构实在论", "description": "主张科学揭示世界结构而非本质的观点"}
+      ]
+    },
+    {
+      "name": "科学方法论",
+      "subcategories": [
+        {"name": "归纳主义", "description": "基于观察归纳出科学理论的方法"},
+        {"name": "假说-演绎法", "description": "通过假设和检验发展科学理论的方法"},
+        {"name": "证伪主义", "description": "通过反驳尝试检验科学理论的方法"},
+        {"name": "研究纲领方法论", "description": "分析科学研究纲领发展的方法"},
+        {"name": "范式转移理论", "description": "研究科学革命与范式变化的理论"}
+      ]
+    },
+    {
+      "name": "科学解释理论",
+      "subcategories": [
+        {"name": "演绎-法则模型", "description": "通过普遍规律演绎解释现象的理论"},
+        {"name": "因果解释模型", "description": "基于因果关系解释科学现象的方法"},
+        {"name": "机制解释理论", "description": "通过底层机制解释现象的方法"},
+        {"name": "功能解释模型", "description": "基于功能分析解释生物现象的方法"},
+        {"name": "统一理论模型", "description": "通过理论统一解释多种现象的方法"}
+      ]
+    },
+    {
+      "name": "科学概念分析",
+      "subcategories": [
+        {"name": "自然规律哲学", "description": "分析自然规律概念的本质和地位"},
+        {"name": "因果关系理论", "description": "研究科学中因果概念的哲学基础"},
+        {"name": "概率解释学", "description": "探讨科学中概率概念的不同解释"},
+        {"name": "时空概念分析", "description": "研究物理学中时间和空间概念"},
+        {"name": "科学分类学", "description": "分析科学中分类和自然种类概念"}
+      ]
+    },
+    {
+      "name": "科学变革研究",
+      "subcategories": [
+        {"name": "科学革命理论", "description": "研究科学中的革命性变化过程"},
+        {"name": "演化认识论", "description": "将科学知识发展视为演化过程"},
+        {"name": "学科发展模式", "description": "分析科学学科形成和发展的模式"},
+        {"name": "理论选择标准", "description": "研究科学理论选择的合理标准"},
+        {"name": "科学进步概念", "description": "探讨科学进步的本质和评价"}
+      ]
+    },
+    {
+      "name": "科学社会学",
+      "subcategories": [
+        {"name": "科学共同体研究", "description": "分析科学共同体的结构和运作"},
+        {"name": "科学制度分析", "description": "研究科学作为社会制度的特性"},
+        {"name": "科学与价值关系", "description": "探讨价值在科学中的作用"},
+        {"name": "知识社会学", "description": "研究社会因素对科学知识的影响"},
+        {"name": "科学权威问题", "description": "分析科学权威的基础和限制"}
+      ]
+    },
+    {
+      "name": "专门科学哲学",
+      "subcategories": [
+        {"name": "物理学哲学", "description": "研究物理学的哲学问题和基础"},
+        {"name": "生物学哲学", "description": "探讨生物学中的哲学问题"},
+        {"name": "认知科学哲学", "description": "分析认知科学的概念和方法问题"},
+        {"name": "社会科学哲学", "description": "研究社会科学的方法论特殊性"},
+        {"name": "数学哲学", "description": "探讨数学的本质和基础问题"}
+      ]
+    },
+    {
+      "name": "科学与伦理",
+      "subcategories": [
+        {"name": "科学责任伦理", "description": "研究科学家的道德责任问题"},
+        {"name": "科技评估理论", "description": "分析科技发展的价值与风险"},
+        {"name": "科学中立性问题", "description": "探讨科学是否价值中立的问题"},
+        {"name": "科学政策哲学", "description": "研究科学政策制定的哲学基础"},
+        {"name": "伦理边界问题", "description": "探讨科学研究的伦理限制"}
+      ]
+    }
+  ]
+} 

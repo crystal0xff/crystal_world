@@ -1,0 +1,86 @@
+{
+  "name": "杂家哲学",
+  "description": "融合诸子百家思想，兼收并蓄的综合性哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "杂家经典研究",
+      "subcategories": [
+        {"name": "《吕氏春秋》研究", "description": "研究杂家代表著作《吕氏春秋》的思想体系"},
+        {"name": "《淮南子》研究", "description": "探讨杂家经典《淮南子》的哲学内涵"},
+        {"name": "《说苑》《新序》研究", "description": "分析刘向杂家著作的思想特点"},
+        {"name": "《论衡》研究", "description": "研究王充《论衡》中的杂家思想倾向"},
+        {"name": "杂家文献整理与考辨", "description": "整理和考证杂家相关的历史文献资料"}
+      ]
+    },
+    {
+      "name": "综合哲学思想",
+      "subcategories": [
+        {"name": "兼容并蓄思想", "description": "研究杂家融合各家学说的哲学方法"},
+        {"name": "经世致用理念", "description": "探讨杂家重视实用性的哲学取向"},
+        {"name": "宇宙本体论", "description": "分析杂家对宇宙本原与存在的综合理解"},
+        {"name": "知识整合方法", "description": "研究杂家系统化整合知识的思维方式"},
+        {"name": "辩证思维特色", "description": "探讨杂家思想中的辩证法特点"}
+      ]
+    },
+    {
+      "name": "政治哲学思想",
+      "subcategories": [
+        {"name": "理想政治模式", "description": "研究杂家关于理想政治形态的思考"},
+        {"name": "君主修养论", "description": "探讨杂家对理想统治者素质的要求"},
+        {"name": "政治实用主义", "description": "分析杂家务实取向的政治思想"},
+        {"name": "法制与德治结合", "description": "研究杂家对法治与德治关系的看法"},
+        {"name": "政治生态观", "description": "探讨杂家对政治系统整体平衡的思考"}
+      ]
+    },
+    {
+      "name": "自然哲学",
+      "subcategories": [
+        {"name": "天人关系论", "description": "研究杂家对自然与人类关系的理解"},
+        {"name": "五行理论整合", "description": "探讨杂家对阴阳五行理论的吸收与发展"},
+        {"name": "自然规律观", "description": "分析杂家对自然规律与秩序的认识"},
+        {"name": "宇宙生成论", "description": "研究杂家关于宇宙起源与演化的理论"},
+        {"name": "自然与社会统一", "description": "探讨杂家对自然规律与社会法则统一性的思考"}
+      ]
+    },
+    {
+      "name": "伦理道德思想",
+      "subcategories": [
+        {"name": "道德综合主义", "description": "研究杂家融合各家伦理思想的特点"},
+        {"name": "实用伦理观", "description": "探讨杂家伦理思想的实用取向"},
+        {"name": "社会和谐论", "description": "分析杂家关于社会和谐的伦理思考"},
+        {"name": "个人修养理念", "description": "研究杂家对个人道德修养的要求"},
+        {"name": "情感与理性平衡", "description": "探讨杂家对情感与理性关系的理解"}
+      ]
+    },
+    {
+      "name": "知识论与方法论",
+      "subcategories": [
+        {"name": "知识系统化", "description": "研究杂家对知识进行系统整合的方法"},
+        {"name": "实证思维方法", "description": "探讨杂家的实证主义知识取向"},
+        {"name": "折中主义方法论", "description": "分析杂家调和各家学说的方法论特点"},
+        {"name": "类比推理思想", "description": "研究杂家运用类比方法进行推理的特点"},
+        {"name": "知行关系论", "description": "探讨杂家对知识与实践关系的理解"}
+      ]
+    },
+    {
+      "name": "文化整合思想",
+      "subcategories": [
+        {"name": "文化综合观", "description": "研究杂家对多元文化整合的思想"},
+        {"name": "学术包容性", "description": "探讨杂家对不同学术思想的包容态度"},
+        {"name": "文化传承理论", "description": "分析杂家对文化传承与创新的理解"},
+        {"name": "礼乐文化观", "description": "研究杂家对礼乐制度与文化的看法"},
+        {"name": "文化实用主义", "description": "探讨杂家对文化实用价值的重视"}
+      ]
+    },
+    {
+      "name": "历史影响与现代价值",
+      "subcategories": [
+        {"name": "对汉代学术的影响", "description": "研究杂家思想对汉代学术发展的影响"},
+        {"name": "对中国百科全书传统的贡献", "description": "探讨杂家在中国百科全书编纂传统中的地位"},
+        {"name": "对中国综合思维的影响", "description": "分析杂家对中国传统综合思维方式的形塑"},
+        {"name": "杂家思想的现代阐释", "description": "研究杂家思想在现代学术语境中的解读"},
+        {"name": "杂家精神与跨学科研究", "description": "探讨杂家兼容并蓄精神对现代跨学科研究的启示"}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,86 @@
+{
+  "name": "法家哲学",
+  "description": "强调法制、术治和权威的中国古代政治哲学流派",
+  "quaternaryCategories": [
+    {
+      "name": "法家经典研究",
+      "subcategories": [
+        {"name": "《韩非子》研究", "description": "分析韩非子著作的思想体系与特点"},
+        {"name": "《商君书》诠释", "description": "研究商鞅变法思想与政治理论"},
+        {"name": "《慎子》解读", "description": "探讨慎到法家思想的特色与贡献"},
+        {"name": "《申子》考析", "description": "考察申不害思想与术治理论"},
+        {"name": "法家文献源流", "description": "研究法家文献的形成与传承历史"}
+      ]
+    },
+    {
+      "name": "法治思想",
+      "subcategories": [
+        {"name": "法制本质论", "description": "探讨法家对法律本质的理解"},
+        {"name": "刑德关系", "description": "研究法家对刑罚与道德关系的看法"},
+        {"name": "法令公开论", "description": "分析法家对法令公开性的主张"},
+        {"name": "法律平等思想", "description": "探讨法家法律面前人人平等的理念"},
+        {"name": "法律威慑理论", "description": "研究法家关于法律威慑作用的思想"}
+      ]
+    },
+    {
+      "name": "术治理论",
+      "subcategories": [
+        {"name": "君主权术", "description": "研究君主控制臣下的政治技术"},
+        {"name": "任人哲学", "description": "探讨法家选拔任用人才的理论"},
+        {"name": "赏罚之术", "description": "分析赏罚作为治理手段的运用"},
+        {"name": "势与术关系", "description": "研究权势与技术在政治中的关系"},
+        {"name": "臣道理论", "description": "探讨法家对臣子行为规范的要求"}
+      ]
+    },
+    {
+      "name": "势治思想",
+      "subcategories": [
+        {"name": "君主权威论", "description": "研究君主权威的建立与维护"},
+        {"name": "势位理论", "description": "探讨地位与权力关系的法家观点"},
+        {"name": "威势构建", "description": "分析政治威势的构建方法"},
+        {"name": "君臣势关系", "description": "研究君主与臣子之间的权力关系"},
+        {"name": "势治基础", "description": "探讨权势统治的哲学基础"}
+      ]
+    },
+    {
+      "name": "法家人性论",
+      "subcategories": [
+        {"name": "性恶实用论", "description": "研究法家对人性恶的实用主义态度"},
+        {"name": "利己动机观", "description": "探讨法家对人类利己动机的认识"},
+        {"name": "人性控制论", "description": "分析法家控制人性弱点的政治思想"},
+        {"name": "群体心理学", "description": "研究法家对民众心理的把握与运用"},
+        {"name": "欲望管理术", "description": "探讨法家对人类欲望的政治管理"}
+      ]
+    },
+    {
+      "name": "法家社会政治理论",
+      "subcategories": [
+        {"name": "富国强兵策", "description": "研究法家富国强兵的政治经济思想"},
+        {"name": "农战一体论", "description": "探讨农业与军事结合的国家发展理论"},
+        {"name": "中央集权论", "description": "分析法家强化中央集权的政治主张"},
+        {"name": "变法理论", "description": "研究法家变革传统制度的思想方法"},
+        {"name": "社会控制学", "description": "探讨法家社会控制与管理的理论"}
+      ]
+    },
+    {
+      "name": "法家与其他学派关系",
+      "subcategories": [
+        {"name": "法儒之辨", "description": "比较法家与儒家的政治哲学差异"},
+        {"name": "法道互补", "description": "研究法家思想与道家哲学的互补关系"},
+        {"name": "法墨比较", "description": "分析法家与墨家的思想异同"},
+        {"name": "法名关系", "description": "探讨法家与名家的逻辑思维联系"},
+        {"name": "法阴阳互动", "description": "研究法家与阴阳家思想的交流"}
+      ]
+    },
+    {
+      "name": "法家历史影响",
+      "subcategories": [
+        {"name": "秦制研究", "description": "研究法家思想对秦朝制度的影响"},
+        {"name": "汉代法家化儒学", "description": "探讨汉代儒学对法家思想的吸收"},
+        {"name": "历代专制政治理论", "description": "分析法家对中国专制政治理论的贡献"},
+        {"name": "近现代法家评价", "description": "研究近现代学者对法家的评价与解读"},
+        {"name": "法家与现代法治", "description": "探讨法家思想与现代法治建设的关系"}
+      ]
+    }
+  ]
+} 
